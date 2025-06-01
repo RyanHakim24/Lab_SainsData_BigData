@@ -1,0 +1,22 @@
+Tree_ID,Species,Height_m,Age_years,Diameter_cm,Location,Planted_Date,Evergreen,Disease_Present,Health_Status
+1,Quercus robur,25.3,45,120.5,North Forest,3/15/1978,FALSE,TRUE,Sick
+2,Pinus sylvestris,32.1,60,95.8,Mountain Range,7/22/1963,TRUE,FALSE,Healthy
+3,Acer pseudoplatanus,18.7,30,68.2,City Park,11/5/1993,FALSE,TRUE,Sick
+4,Fagus sylvatica,28.9,55,112.3,South Slope,9/12/1968,FALSE,FALSE,Healthy
+5,Picea abies,41.5,85,145,Alpine Zone,5/30/1938,TRUE,TRUE,Dead
+6,Betula pendula,15.2,20,45.7,Lakeside,8/19/2003,FALSE,FALSE,Healthy
+7,Pinus nigra,29.8,50,103.4,Coastal Area,4/25/1973,TRUE,FALSE,Healthy
+8,Quercus petraea,27.4,48,118.9,West Woods,10/11/1975,FALSE,TRUE,Sick
+9,Acer platanoides,19.5,35,72.6,Urban Center,2/28/1988,FALSE,FALSE,Healthy
+10,Abies alba,,70,128.3,Mountain Range,12/10/1953,TRUE,TRUE,Dead
+11,Fraxinus excelsior,22.8,40,89.7,Riverbank,7/7/1983,FALSE,TRUE,Sick
+12,Pinus ponderosa,31.9,65,110.2,North Forest,6/14/1958,TRUE,FALSE,Healthy
+13,Betula pubescens,14.3,18,42.1,Swamp Area,9/23/2005,FALSE,FALSE,
+14,Picea glauca,38.2,80,139.6,Alpine Zone,4/17/1943,TRUE,FALSE,Healthy
+15,Quercus rubra,24.6,43,115.8,East Valley,8/9/1980,FALSE,TRUE,Sick
+15,Quercus rubra,24.6,43,115.8,East Valley,8/9/1980,FALSE,TRUE,Sick
+16,Acer saccharum,20.1,38,75.3,City Park,1/30/1985,FALSE,FALSE,Healthy
+17,Pinus strobus,27.5,52,97.4,Coastal Area,3/12/1971,TRUE,TRUE,Dead
+18,Fagus orientalis,26.8,50,109.7,South Slope,11/25/1973,FALSE,FALSE,Healthy
+19,Abies procera,34.9,68,123.8,Mountain Range,10/5/1955,TRUE,FALSE,Healthy
+20,Betula papyrifera,16.4,22,48.9,Lakeside,7/14/2001,FALSE,TRUE,Sick
