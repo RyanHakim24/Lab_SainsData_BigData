@@ -1,0 +1,21 @@
+,Tree_ID,Species,Height_m,Age_years,Diameter_cm,Location,Planted_Date,Evergreen,Disease_Present,Health_Status,Soil_Type,Annual_Rainfall_mm,Avg_Temperature_C,Carbon_Sequestration_kg_yr,Family
+0,1,Quercus robur,25.3,45,120.5,North Forest,3/15/1978,False,True,Sick,Loam,1200,8.5,25.3,Fagaceae
+1,2,Pinus sylvestris,32.1,60,95.8,Mountain Range,7/22/1963,True,False,Healthy,Sandy,800,6.2,38.7,Pinaceae
+2,3,Acer pseudoplatanus,18.7,30,68.2,City Park,11/5/1993,False,True,Sick,Clay,950,10.1,15.9,Sapindaceae
+3,4,Fagus sylvatica,28.9,55,112.3,South Slope,9/12/1968,False,False,Healthy,Loam,1100,7.8,28.4,Fagaceae
+4,5,Picea abies,41.5,85,145.0,Alpine Zone,5/30/1938,True,True,Dead,Rocky,650,4.5,42.1,Pinaceae
+5,6,Betula pendula,15.2,20,45.7,Lakeside,8/19/2003,False,False,Healthy,Sandy,900,9.3,10.2,Betulaceae
+6,7,Pinus nigra,29.8,50,103.4,Coastal Area,4/25/1973,True,False,Healthy,Clay,1050,8.9,32.8,Pinaceae
+7,8,Quercus petraea,27.4,48,118.9,West Woods,10/11/1975,False,True,Sick,Loam,1150,8.2,26.7,Fagaceae
+8,9,Acer platanoides,19.5,35,72.6,Urban Center,2/28/1988,False,False,Healthy,Clay,980,11.2,17.3,Sapindaceae
+9,10,Abies alba,26.05,70,128.3,Mountain Range,12/10/1953,True,True,Dead,Rocky,700,3.9,39.5,Pinaceae
+10,11,Fraxinus excelsior,22.8,40,89.7,Riverbank,7/7/1983,False,True,Sick,Loam,1000,9.1,21.6,Oleaceae
+11,12,Pinus ponderosa,31.9,65,110.2,North Forest,6/14/1958,True,False,Healthy,Sandy,850,7.1,35.4,Pinaceae
+12,13,Betula pubescens,14.3,18,42.1,Swamp Area,9/23/2005,False,False,Healthy,Peat,1300,6.7,8.9,Betulaceae
+13,14,Picea glauca,38.2,80,139.6,Alpine Zone,4/17/1943,True,False,Healthy,Rocky,600,5.2,41.7,Pinaceae
+14,15,Quercus rubra,24.6,43,115.8,East Valley,8/9/1980,False,True,Sick,Loam,1180,8.4,24.8,Fagaceae
+15,16,Acer saccharum,20.1,38,75.3,City Park,1/30/1985,False,False,Healthy,Clay,920,10.5,18.6,Sapindaceae
+16,17,Pinus strobus,27.5,52,97.4,Coastal Area,3/12/1971,True,True,Dead,Sandy,880,7.8,30.2,Pinaceae
+17,18,Fagus orientalis,26.8,50,109.7,South Slope,11/25/1973,False,False,Healthy,Loam,1120,8.0,27.1,Fagaceae
+18,19,Abies procera,34.9,68,123.8,Mountain Range,10/5/1955,True,False,Healthy,Rocky,680,4.8,37.9,Pinaceae
+19,20,Betula papyrifera,16.4,22,48.9,Lakeside,7/14/2001,False,True,Sick,Peat,1250,6.3,12.4,Betulaceae
