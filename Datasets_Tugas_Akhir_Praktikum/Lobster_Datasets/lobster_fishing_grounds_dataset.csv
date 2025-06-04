@@ -1,0 +1,260 @@
+fishing_ground_id,ground_name,latitude,longitude,water_depth_meters,water_type,average_temperature_c,lobster_density_per_sqkm,seasonal_closure,protected_area,distance_from_shore_km,bottom_type,current_strength,accessibility_rating
+FG001,Bobbyland Ridge,41.093432,-74.396275,53,Deep Water,8.6,285,False,False,31.6,Rocky,Weak,8
+FG002,Lake Amberton Ridge,37.909529,-68.968687,46,Coastal,15.9,358,False,False,63.6,Mixed,Strong,8
+FG003,Lake Melissa Ridge,43.151354,-70.060466,186,Deep Water,8.5,417,True,False,59.9,Rocky,Moderate,2
+FG004,Morenoborough Ridge,44.937554,-71.608866,65,Sandy Bottom,16.0,266,False,True,20.1,Sandy,Strong,7
+FG005,North Brandiberg Area,35.569966,-72.575325,31,Coastal,17.9,333,False,True,94.2,Mixed,Moderate,3
+FG006,West Ashley Shelf,37.701107,-68.981238,192,Coastal,14.3,299,False,False,43.3,Rocky,Weak,6
+FG007,Keychester Shelf,41.234383,-73.786059,183,Deep Water,13.6,201,True,True,47.1,Mixed,Strong,5
+FG008,Justinstad Ground,43.2841,-67.726324,85,Deep Water,16.6,173,True,False,6.8,Sandy,Weak,3
+FG009,Port Pamelaland Shelf,43.064806,-65.171953,64,Coastal,11.0,57,True,False,7.8,Mixed,Moderate,1
+FG010,South Brent Banks,35.774054,-66.967428,96,Rocky Bottom,10.0,146,True,False,54.5,Sandy,Weak,3
+FG011,South Johnathanside Ground,42.409871,-70.202806,120,Deep Water,10.4,159,False,True,87.5,Rocky,Weak,6
+FG012,Michaelbury Banks,39.214566,-69.61368,26,Continental Shelf,11.0,120,False,False,62.6,Mixed,Moderate,2
+FG013,Joshuaton Area,35.973523,-70.581948,41,Coastal,11.8,327,True,False,45.3,Rocky,Weak,3
+FG014,Georgeview Area,44.419912,-67.905033,83,Continental Shelf,16.0,120,False,False,21.0,Rocky,Moderate,6
+FG015,New Thomas Ground,38.604152,-65.333126,160,Coastal,10.7,114,False,False,48.4,Mixed,Strong,5
+FG016,East Donna Ridge,40.442365,-67.18777,75,Sandy Bottom,10.0,145,False,False,74.4,Muddy,Moderate,5
+FG017,New Melissa Banks,45.446216,-69.982816,143,Coastal,14.3,169,False,True,94.3,Rocky,Weak,1
+FG018,Mckinneyport Shelf,42.243998,-71.638338,177,Sandy Bottom,17.9,219,True,True,23.6,Sandy,Moderate,3
+FG019,West Brittanychester Area,45.140069,-70.941468,27,Rocky Bottom,9.7,75,True,True,87.1,Mixed,Weak,2
+FG020,Randallmouth Ridge,40.551138,-73.466709,133,Continental Shelf,10.8,416,False,False,18.5,Mixed,Weak,2
+FG021,West Benjaminborough Ground,37.864626,-67.354359,29,Continental Shelf,14.7,226,False,True,36.5,Rocky,Moderate,9
+FG022,Erinton Ground,42.45049,-67.379435,27,Deep Water,11.5,186,False,True,96.7,Mixed,Moderate,6
+FG023,Nathantown Banks,35.216612,-70.410582,167,Coastal,8.4,340,True,False,99.8,Sandy,Weak,2
+FG024,Torresville Shelf,35.030167,-70.317368,125,Continental Shelf,14.7,294,False,False,23.5,Mixed,Weak,3
+FG025,Lake Donald Shelf,39.601839,-72.03405,160,Rocky Bottom,16.3,474,False,False,29.5,Muddy,Strong,7
+FG026,Josephport Banks,40.300804,-67.180816,50,Continental Shelf,9.2,417,True,True,23.4,Mixed,Strong,5
+FG027,West Jefferyberg Shelf,42.345363,-74.394798,106,Coastal,16.8,193,False,True,11.4,Mixed,Strong,6
+FG028,Spencerberg Ridge,43.083702,-69.076024,149,Continental Shelf,15.7,429,False,False,9.9,Mixed,Strong,3
+FG029,Christopherbury Banks,35.649892,-66.359362,132,Deep Water,8.3,334,True,False,70.7,Rocky,Moderate,9
+FG030,Millermouth Shelf,45.620389,-74.409133,55,Rocky Bottom,8.8,114,False,True,63.3,Mixed,Weak,5
+FG031,Davidton Shelf,35.57055,-71.709231,160,Deep Water,8.6,284,False,False,62.0,Sandy,Strong,5
+FG032,Robinsonborough Ridge,41.356458,-69.912193,190,Deep Water,14.8,150,False,True,88.0,Mixed,Strong,6
+FG033,Lake Jessica Banks,38.852485,-65.26668,102,Deep Water,14.3,429,True,True,41.9,Mixed,Strong,9
+FG034,Aliciaburgh Ridge,37.155052,-68.381505,197,Rocky Bottom,10.7,467,False,True,50.7,Rocky,Moderate,9
+FG035,South Kevinberg Ridge,42.582404,-74.986185,144,Rocky Bottom,15.9,158,False,False,61.4,Muddy,Strong,9
+FG036,Port Kathryn Ground,37.823938,-69.208578,71,Deep Water,10.7,70,False,False,33.1,Mixed,Strong,5
+FG037,West Michael Area,46.393468,-68.089383,174,Rocky Bottom,10.8,188,True,False,53.3,Mixed,Weak,8
+FG038,Brittanymouth Area,39.951593,-67.979307,53,Deep Water,14.8,61,True,False,98.5,Sandy,Strong,9
+FG039,Port Alan Ground,44.07916,-71.907149,50,Coastal,15.2,176,False,True,34.3,Mixed,Weak,3
+FG040,New William Ground,37.957727,-66.07229,160,Sandy Bottom,14.7,241,True,False,42.0,Sandy,Moderate,1
+FG041,New Stephen Ground,38.986118,-65.056685,111,Sandy Bottom,17.8,134,False,True,30.3,Sandy,Weak,8
+FG042,Fowlerchester Shelf,39.852068,-67.130879,77,Coastal,10.4,319,False,True,23.4,Rocky,Moderate,6
+FG043,Millerchester Area,46.063053,-67.03752,63,Rocky Bottom,16.0,497,False,True,37.2,Rocky,Weak,2
+FG044,West Elizabethborough Shelf,39.024094,-65.366309,139,Continental Shelf,10.1,96,False,True,34.0,Sandy,Weak,6
+FG045,Robertburgh Shelf,38.99595,-73.984982,81,Sandy Bottom,17.5,377,False,False,64.8,Sandy,Strong,2
+FG046,Port Bradfort Banks,35.504335,-67.990845,33,Rocky Bottom,9.0,249,False,False,88.9,Muddy,Moderate,9
+FG047,North Robert Shelf,35.428767,-73.376634,115,Coastal,13.0,146,True,True,88.0,Mixed,Weak,9
+FG048,South Maryview Ridge,38.275246,-66.891763,171,Sandy Bottom,16.3,272,False,True,26.8,Sandy,Moderate,2
+FG049,South Anthony Ground,39.646508,-69.377249,148,Coastal,8.5,437,True,True,38.6,Sandy,Strong,7
+FG050,Lake Briannaside Banks,43.28772,-71.112993,45,Deep Water,12.2,368,False,False,15.2,Sandy,Strong,2
+FG051,East Matthew Ridge,39.967972,-68.906875,150,Coastal,12.0,192,True,True,84.3,Muddy,Moderate,10
+FG052,Karenmouth Ridge,42.225503,-74.099235,196,Coastal,11.1,180,True,False,30.2,Mixed,Moderate,4
+FG053,Freemanport Shelf,43.725127,-74.926803,161,Sandy Bottom,15.9,449,False,False,60.0,Mixed,Moderate,2
+FG054,Mezashire Ground,45.977325,-67.984945,115,Rocky Bottom,8.2,239,False,True,62.6,Mixed,Weak,2
+FG055,North David Shelf,44.479646,-68.359267,73,Deep Water,14.5,254,True,True,48.7,Sandy,Weak,9
+FG056,Crystalmouth Shelf,36.369755,-72.192981,196,Sandy Bottom,11.4,445,False,True,97.1,Rocky,Strong,10
+FG057,South Stacy Area,38.647341,-66.484911,126,Continental Shelf,15.8,191,True,True,28.3,Muddy,Weak,4
+FG058,Elizabethborough Ground,37.239146,-65.750248,66,Deep Water,14.1,398,True,False,73.0,Rocky,Moderate,3
+FG059,East Angela Banks,37.741489,-67.506484,49,Rocky Bottom,9.9,470,True,True,60.7,Muddy,Moderate,7
+FG060,Palmerview Ridge,40.49853,-67.058365,85,Sandy Bottom,9.0,498,True,True,31.3,Sandy,Moderate,1
+FG061,East Crystal Area,46.669729,-69.882499,122,Deep Water,16.6,485,True,False,65.7,Muddy,Weak,7
+FG062,New Erikhaven Banks,42.74859,-74.363263,84,Deep Water,8.7,424,True,True,6.7,Sandy,Weak,3
+FG063,West Michellestad Area,45.228345,-70.267944,98,Sandy Bottom,12.6,392,True,False,35.1,Muddy,Moderate,6
+FG064,East Christopherview Banks,40.935856,-70.103006,103,Coastal,14.9,438,False,True,67.5,Muddy,Weak,5
+FG065,Michaelshire Shelf,35.503978,-70.209751,197,Deep Water,14.6,419,False,True,14.3,Rocky,Weak,10
+FG066,Port Debbie Ridge,38.786719,-68.603718,31,Sandy Bottom,9.8,94,True,True,92.4,Sandy,Weak,1
+FG067,Port Kelly Banks,43.053799,-70.332203,191,Sandy Bottom,17.8,480,False,True,85.3,Mixed,Weak,8
+FG068,Emilyhaven Area,41.246982,-66.288418,53,Deep Water,12.9,324,True,True,29.4,Sandy,Weak,4
+FG069,Port Lisa Ridge,46.719216,-67.370331,116,Deep Water,17.9,157,False,True,6.9,Rocky,Moderate,5
+FG070,New Micheleside Ground,43.337705,-71.552923,110,Deep Water,8.5,294,True,False,16.5,Mixed,Weak,1
+FG071,Mitchellborough Ground,42.578324,-74.842293,96,Continental Shelf,17.4,361,False,False,16.3,Mixed,Moderate,5
+FG072,Williamsborough Banks,46.657033,-68.01657,27,Sandy Bottom,12.1,455,True,True,53.3,Rocky,Moderate,5
+FG073,Darrenmouth Ground,42.639974,-67.301858,137,Sandy Bottom,16.7,103,False,True,61.9,Muddy,Weak,6
+FG074,South Elizabethton Ground,46.459101,-65.746093,105,Continental Shelf,15.1,475,True,True,82.6,Sandy,Strong,2
+FG075,South Nichole Shelf,39.426323,-65.46334,152,Continental Shelf,15.3,227,False,True,49.9,Sandy,Strong,8
+FG076,South Davidville Ridge,41.66595,-73.014561,56,Deep Water,13.0,115,True,False,78.1,Mixed,Moderate,8
+FG077,New Lindseyfurt Ground,42.230531,-66.112552,124,Continental Shelf,10.9,260,False,False,10.5,Mixed,Strong,1
+FG078,Lake Willieville Area,43.668922,-69.619402,72,Deep Water,9.2,284,False,True,9.3,Rocky,Moderate,8
+FG079,New Ericaland Ridge,44.897873,-74.42042,164,Rocky Bottom,14.2,326,False,True,73.5,Mixed,Strong,7
+FG080,Emilyfort Area,39.879278,-71.463599,22,Coastal,11.2,220,True,True,39.1,Muddy,Moderate,8
+FG081,Port Joemouth Ground,43.621958,-69.400374,164,Coastal,12.7,441,True,False,31.5,Rocky,Weak,10
+FG082,Jenniferburgh Banks,43.306841,-67.939707,130,Continental Shelf,14.0,217,True,True,89.4,Muddy,Weak,6
+FG083,East Roberthaven Ridge,39.543493,-65.535079,171,Rocky Bottom,15.1,168,False,True,44.6,Sandy,Weak,4
+FG084,Reidfort Ridge,36.591809,-72.669838,87,Continental Shelf,15.7,417,True,False,95.6,Sandy,Strong,5
+FG085,Morganview Ground,36.199626,-68.875208,95,Sandy Bottom,11.6,364,True,True,92.0,Muddy,Weak,3
+FG086,Alexandrafort Area,44.319732,-73.57502,179,Sandy Bottom,10.8,137,True,True,95.4,Rocky,Moderate,9
+FG087,Finleychester Ground,46.521382,-66.491815,136,Deep Water,15.1,336,True,False,66.1,Sandy,Weak,6
+FG088,Willisfurt Ground,45.007462,-71.639462,166,Rocky Bottom,17.4,307,False,False,34.3,Mixed,Moderate,10
+FG089,Schroedershire Shelf,38.427907,-67.91558,144,Continental Shelf,11.4,319,False,True,46.5,Rocky,Moderate,1
+FG090,North Jessica Shelf,38.65461,-67.607859,20,Deep Water,16.4,85,False,False,37.0,Sandy,Weak,9
+FG091,Ericville Area,36.695011,-67.048984,196,Deep Water,16.8,495,True,False,14.6,Muddy,Weak,1
+FG092,Rivasborough Area,40.155451,-68.193119,72,Deep Water,9.1,219,False,False,52.8,Sandy,Strong,1
+FG093,West Mackenziehaven Banks,42.713091,-68.161162,107,Continental Shelf,10.6,181,False,True,48.3,Rocky,Moderate,8
+FG094,South Emilyfort Shelf,36.821189,-67.799317,190,Rocky Bottom,14.3,334,True,True,58.8,Sandy,Strong,8
+FG095,South Jessicaton Ridge,39.1424,-68.604958,181,Sandy Bottom,14.9,169,False,False,43.9,Sandy,Strong,6
+FG096,Stevensonshire Shelf,45.590696,-67.554115,130,Coastal,10.8,66,True,True,84.4,Mixed,Moderate,8
+FG097,Kelleyfort Ground,37.190002,-66.403062,121,Deep Water,12.5,91,False,True,59.4,Mixed,Strong,8
+FG098,Williamberg Ridge,38.472375,-70.330848,181,Continental Shelf,14.6,100,False,True,75.6,Mixed,Weak,7
+FG099,Conleyton Ground,44.306789,-73.866433,150,Continental Shelf,16.5,77,False,False,45.2,Sandy,Moderate,8
+FG100,West Kevinberg Shelf,42.240701,-74.154523,124,Deep Water,12.3,324,False,False,79.1,Mixed,Strong,2
+FG101,Harperport Ridge,37.618944,-72.245761,25,Coastal,12.7,89,False,False,57.1,Mixed,Weak,9
+FG102,Robertsmouth Ridge,40.620579,-72.313127,82,Coastal,11.0,241,True,False,94.8,Rocky,Moderate,9
+FG103,Port Michele Ground,46.124591,-66.672906,148,Sandy Bottom,16.9,335,False,True,79.0,Rocky,Weak,8
+FG104,East Carlos Ground,40.227727,-72.827191,36,Rocky Bottom,8.9,85,False,False,46.3,Rocky,Moderate,6
+FG105,Armstrongfurt Ground,45.941617,-74.11679,57,Deep Water,9.0,244,True,True,75.1,Sandy,Strong,7
+FG106,North Matthew Ground,41.120999,-66.995339,136,Deep Water,17.4,347,False,True,7.4,Sandy,Weak,3
+FG107,Carolynland Area,44.062067,-67.46715,176,Sandy Bottom,13.2,388,True,False,38.2,Rocky,Moderate,1
+FG108,South John Ridge,36.324802,-73.214526,76,Rocky Bottom,10.3,103,True,False,75.9,Muddy,Strong,10
+FG109,Alexisport Shelf,41.963765,-72.706373,64,Continental Shelf,13.3,155,True,False,12.4,Muddy,Strong,7
+FG110,Joshuaton Ground,36.445385,-72.130911,30,Coastal,14.4,244,False,False,15.8,Sandy,Weak,5
+FG111,Donnabury Ridge,42.196246,-66.44145,24,Sandy Bottom,15.7,395,False,True,31.6,Mixed,Weak,8
+FG112,West Teresa Ground,37.99406,-68.04889,175,Sandy Bottom,11.3,174,False,False,35.9,Mixed,Strong,10
+FG113,Port Alexisport Area,38.626962,-70.852408,85,Sandy Bottom,8.3,104,False,False,58.8,Mixed,Strong,8
+FG114,New Alexander Shelf,44.123285,-71.592881,181,Continental Shelf,16.5,340,False,False,68.0,Rocky,Moderate,3
+FG115,Smithtown Ground,45.028947,-72.866264,143,Deep Water,10.9,476,True,False,17.4,Muddy,Weak,9
+FG116,South Jeremytown Shelf,37.49976,-67.326352,186,Rocky Bottom,8.7,230,False,True,37.2,Muddy,Weak,4
+FG117,New Patrick Shelf,36.711949,-67.606707,129,Deep Water,16.9,307,True,False,38.9,Muddy,Weak,7
+FG118,East Gregoryside Shelf,35.524139,-71.280873,79,Coastal,12.8,482,True,True,68.4,Muddy,Weak,5
+FG119,Keithton Area,46.232729,-69.515345,200,Deep Water,13.5,92,True,False,87.6,Sandy,Weak,2
+FG120,Lake Lindastad Banks,35.541304,-72.280768,111,Deep Water,14.8,236,False,False,38.7,Rocky,Moderate,7
+FG121,South Maryside Ground,46.775766,-66.32018,176,Sandy Bottom,14.8,474,False,False,93.5,Muddy,Strong,4
+FG122,New Angela Ridge,45.732953,-65.278081,176,Deep Water,11.9,421,True,False,64.3,Sandy,Strong,7
+FG123,Lesliestad Shelf,45.055295,-68.354046,111,Coastal,10.4,282,False,False,78.2,Muddy,Weak,3
+FG124,Michelleberg Shelf,35.896672,-71.724345,42,Sandy Bottom,17.5,324,True,True,44.4,Rocky,Strong,1
+FG125,Lake David Shelf,43.950093,-66.429436,66,Rocky Bottom,16.7,292,False,False,62.0,Mixed,Strong,5
+FG126,Meganstad Shelf,43.805642,-68.785109,129,Deep Water,17.8,168,False,True,16.9,Mixed,Strong,8
+FG127,Jenniferton Shelf,36.842866,-68.852248,104,Continental Shelf,11.4,242,False,False,57.6,Mixed,Strong,1
+FG128,Ibarraville Ridge,38.69376,-71.472134,154,Continental Shelf,14.8,370,False,True,81.1,Mixed,Moderate,8
+FG129,Johnsontown Ground,42.29618,-67.886395,193,Deep Water,10.0,402,False,False,95.0,Rocky,Moderate,10
+FG130,Debrabury Ridge,46.3027,-70.752195,47,Continental Shelf,12.8,169,True,True,16.7,Muddy,Weak,2
+FG131,West Maria Banks,39.427942,-73.364338,191,Coastal,12.1,249,True,True,28.8,Mixed,Moderate,2
+FG132,Williamsonburgh Shelf,35.58364,-72.192827,135,Continental Shelf,16.1,223,False,False,32.1,Muddy,Weak,6
+FG133,Fitzgeraldtown Banks,35.357011,-74.363745,134,Coastal,15.2,59,True,True,22.4,Sandy,Moderate,2
+FG134,South Lorimouth Ridge,39.984475,-74.434297,195,Continental Shelf,14.6,237,False,True,48.6,Mixed,Moderate,1
+FG135,Briantown Banks,43.976127,-70.712802,88,Coastal,11.2,495,False,False,43.0,Rocky,Moderate,6
+FG136,Port Ryanborough Ridge,46.647733,-71.522068,21,Rocky Bottom,14.1,72,True,False,92.3,Sandy,Weak,4
+FG137,South Brooke Ridge,37.447688,-70.801037,94,Deep Water,10.6,348,False,True,81.2,Sandy,Strong,4
+FG138,Jasontown Shelf,41.350973,-70.897009,30,Continental Shelf,14.4,170,False,True,23.4,Muddy,Moderate,8
+FG139,North Heather Ground,41.638877,-65.544516,34,Deep Water,9.2,237,False,True,96.8,Sandy,Strong,7
+FG140,Angelamouth Area,36.556894,-69.435226,158,Continental Shelf,8.3,223,True,False,25.1,Muddy,Weak,8
+FG141,East Emilystad Shelf,45.779626,-69.263085,61,Continental Shelf,11.1,188,True,False,35.2,Mixed,Weak,7
+FG142,New Maryfurt Area,39.216928,-65.183456,95,Sandy Bottom,17.2,462,True,False,10.9,Mixed,Strong,8
+FG143,Jonathanton Area,37.464453,-66.310387,108,Rocky Bottom,9.9,231,False,False,38.8,Mixed,Weak,9
+FG144,Lake Joannafurt Ground,38.405428,-66.002239,107,Sandy Bottom,14.5,237,False,False,97.0,Muddy,Strong,1
+FG145,Amandahaven Ridge,39.457937,-70.810975,117,Coastal,13.0,303,True,True,67.7,Mixed,Moderate,8
+FG146,West Heidi Shelf,40.668767,-72.015189,67,Continental Shelf,15.7,184,True,True,85.7,Muddy,Moderate,8
+FG147,Lake Jason Shelf,46.433388,-71.334525,169,Rocky Bottom,17.5,316,False,False,92.2,Sandy,Weak,10
+FG148,Osbornechester Banks,42.084441,-74.316277,38,Deep Water,11.3,420,True,False,90.5,Mixed,Strong,10
+FG149,West Rachel Banks,45.959435,-68.855865,39,Rocky Bottom,8.3,263,True,False,37.6,Muddy,Weak,1
+FG150,Lake Dustin Ground,41.932197,-71.31846,23,Sandy Bottom,15.2,409,False,False,25.0,Rocky,Moderate,2
+FG151,Samuelshire Ridge,43.763371,-70.416737,134,Sandy Bottom,9.5,485,False,False,47.3,Rocky,Weak,9
+FG152,Port Kevinton Shelf,42.861947,-69.682543,137,Sandy Bottom,13.8,306,False,True,89.1,Muddy,Weak,9
+FG153,Port Elizabeth Area,39.732189,-70.239147,123,Continental Shelf,9.2,243,True,False,20.6,Muddy,Moderate,5
+FG154,Samuelborough Ridge,39.751173,-74.870909,158,Deep Water,13.0,433,True,False,38.4,Sandy,Weak,7
+FG155,Charleshaven Area,38.212312,-70.893707,45,Rocky Bottom,13.8,466,True,False,23.1,Sandy,Moderate,6
+FG156,South Davidfort Area,36.538804,-73.095919,168,Rocky Bottom,9.9,103,False,True,12.7,Mixed,Moderate,6
+FG157,Carrieside Ground,46.587392,-66.313504,32,Continental Shelf,8.3,54,False,True,89.4,Sandy,Weak,9
+FG158,West Kristine Ridge,45.358329,-65.675217,138,Rocky Bottom,8.3,373,False,False,6.9,Rocky,Strong,5
+FG159,Josephbury Ridge,39.82765,-70.858372,79,Deep Water,10.3,254,True,True,58.3,Rocky,Weak,8
+FG160,New Ryanchester Shelf,39.912573,-68.521693,118,Deep Water,9.6,185,False,True,55.2,Muddy,Weak,4
+FG161,Brianside Shelf,40.305944,-71.198833,190,Deep Water,10.1,362,False,True,78.4,Mixed,Moderate,7
+FG162,Port Tinatown Ridge,36.277983,-72.422626,92,Continental Shelf,14.0,104,True,False,29.6,Mixed,Weak,7
+FG163,Justinberg Shelf,46.80482,-71.0088,105,Sandy Bottom,13.7,259,True,False,74.0,Mixed,Moderate,3
+FG164,Melissaburgh Ground,45.569182,-68.157601,102,Deep Water,12.6,481,False,True,11.2,Muddy,Moderate,9
+FG165,Morrisview Area,44.400956,-65.511473,29,Deep Water,10.1,68,True,True,83.3,Mixed,Moderate,10
+FG166,New Christopher Ground,45.885272,-73.597586,158,Rocky Bottom,15.1,151,True,True,22.5,Mixed,Weak,6
+FG167,Riveratown Ridge,39.281537,-65.269402,30,Continental Shelf,11.5,95,True,False,53.0,Mixed,Weak,2
+FG168,North Georgestad Shelf,46.369465,-65.768093,93,Deep Water,15.0,323,False,True,68.4,Muddy,Strong,10
+FG169,Isabelborough Banks,41.068173,-72.89802,163,Coastal,9.2,135,True,False,33.5,Muddy,Moderate,3
+FG170,Shaneburgh Shelf,37.669251,-66.952062,183,Rocky Bottom,10.3,60,False,False,41.9,Muddy,Moderate,9
+FG171,Mcdanieltown Shelf,37.153323,-66.378456,146,Sandy Bottom,8.8,210,False,True,76.3,Muddy,Weak,4
+FG172,Lake Nancy Ground,44.411735,-73.991875,30,Deep Water,13.4,441,True,False,14.9,Muddy,Strong,4
+FG173,Owenfort Ridge,37.542038,-65.565881,170,Coastal,14.2,296,True,False,95.2,Rocky,Moderate,10
+FG174,Fordside Ground,42.975951,-70.273899,137,Coastal,16.9,207,False,False,9.7,Mixed,Weak,9
+FG175,North Chelsey Shelf,46.660053,-67.437117,108,Sandy Bottom,17.4,164,True,True,18.7,Muddy,Moderate,7
+FG176,South Thomasfort Ground,42.820274,-65.516107,122,Sandy Bottom,10.1,264,False,True,30.5,Muddy,Strong,10
+FG177,East Richard Shelf,38.762388,-67.992872,41,Continental Shelf,9.9,125,False,True,91.0,Mixed,Moderate,6
+FG178,Oliviamouth Area,40.135736,-65.532018,109,Coastal,10.5,387,False,True,9.4,Sandy,Strong,7
+FG179,Angelicaberg Area,36.477884,-70.670781,168,Continental Shelf,16.7,455,False,True,34.0,Sandy,Moderate,7
+FG180,New Margaret Area,41.413546,-71.584889,61,Sandy Bottom,15.0,171,False,True,14.6,Muddy,Moderate,1
+FG181,New Barbaramouth Ground,44.28203,-68.879271,123,Continental Shelf,10.8,491,True,False,37.6,Rocky,Moderate,1
+FG182,South Carolport Area,42.165344,-70.02075,164,Coastal,9.7,195,False,False,48.9,Rocky,Strong,1
+FG183,New Robert Banks,43.841058,-68.72538,164,Coastal,12.5,318,False,True,66.1,Rocky,Moderate,2
+FG184,Maryport Shelf,42.81234,-74.913795,129,Rocky Bottom,8.5,139,False,True,24.5,Mixed,Weak,9
+FG185,Greeneshire Ridge,46.152005,-73.096424,89,Rocky Bottom,16.6,351,False,True,53.4,Mixed,Strong,2
+FG186,East John Banks,42.972637,-73.587717,102,Sandy Bottom,14.5,307,True,False,10.3,Muddy,Weak,7
+FG187,New Kaylahaven Ground,38.836063,-70.074311,135,Deep Water,10.1,173,False,True,45.7,Rocky,Moderate,4
+FG188,Millston Area,43.52884,-66.110112,60,Deep Water,13.3,254,True,False,63.6,Muddy,Strong,2
+FG189,West Matthew Area,38.865954,-71.316091,199,Rocky Bottom,11.5,113,True,True,38.9,Muddy,Strong,10
+FG190,Harrisonstad Ridge,39.644051,-71.57724,164,Continental Shelf,17.1,335,False,True,18.2,Mixed,Strong,1
+FG191,Kimberlyton Ground,46.358565,-65.777718,164,Sandy Bottom,17.2,159,False,False,35.4,Rocky,Weak,5
+FG192,West Destinyport Ridge,45.091038,-66.833056,154,Sandy Bottom,13.1,133,False,True,97.8,Rocky,Weak,3
+FG193,Amberport Ridge,41.240077,-71.324291,110,Deep Water,17.3,349,False,False,89.8,Rocky,Strong,6
+FG194,East Jennifer Ground,42.150379,-66.60379,61,Rocky Bottom,17.2,79,True,True,85.9,Muddy,Moderate,6
+FG195,Anthonyburgh Banks,45.614576,-72.489132,35,Sandy Bottom,13.2,176,True,False,88.8,Sandy,Strong,8
+FG196,East Becky Ridge,43.773564,-65.607017,175,Sandy Bottom,13.4,391,False,False,26.8,Muddy,Weak,5
+FG197,North Daniellefort Area,39.220512,-74.079648,136,Deep Water,12.9,343,False,False,20.4,Mixed,Strong,1
+FG198,South Stuartchester Shelf,38.472791,-69.867494,187,Deep Water,15.3,161,False,True,19.9,Sandy,Strong,10
+FG199,Robertbury Area,41.661782,-73.282796,117,Coastal,14.5,313,False,False,18.1,Rocky,Weak,10
+FG200,Davidsonbury Ground,42.134513,-72.845107,89,Sandy Bottom,14.0,466,False,False,81.9,Mixed,Strong,1
+FG201,Lake Karen Banks,35.51337,-68.831659,70,Coastal,12.9,307,False,True,60.6,Rocky,Moderate,8
+FG202,Markshire Area,37.596057,-72.535181,82,Rocky Bottom,16.9,143,True,True,53.2,Rocky,Weak,9
+FG203,North Shaneburgh Ground,40.277312,-72.004766,86,Rocky Bottom,8.2,222,False,True,22.8,Mixed,Moderate,5
+FG204,Dianeland Ridge,37.420084,-70.999757,105,Sandy Bottom,8.9,80,False,True,33.3,Rocky,Moderate,8
+FG205,South Gary Ridge,43.64542,-71.195088,68,Continental Shelf,14.7,291,True,False,9.2,Mixed,Moderate,4
+FG206,Jeremiahtown Ground,36.022965,-68.923976,141,Rocky Bottom,14.8,306,True,True,12.3,Rocky,Strong,8
+FG207,Rogerfort Banks,42.280163,-70.282384,153,Deep Water,14.7,62,False,True,97.5,Mixed,Moderate,3
+FG208,East Craig Ridge,35.998267,-74.188953,59,Sandy Bottom,12.3,67,True,False,78.4,Mixed,Moderate,10
+FG209,West Chad Banks,38.20003,-67.794142,93,Rocky Bottom,9.1,196,False,False,17.9,Sandy,Moderate,5
+FG210,West Brianton Banks,45.814103,-74.775626,57,Sandy Bottom,16.2,482,False,True,54.6,Muddy,Strong,1
+FG211,Brianland Shelf,45.583146,-68.321502,38,Deep Water,17.0,379,False,True,75.5,Sandy,Weak,9
+FG212,East Staceyhaven Banks,40.411156,-71.86076,100,Coastal,11.7,99,False,False,63.5,Mixed,Moderate,9
+FG213,Pamelafurt Banks,40.363883,-71.223009,187,Coastal,9.1,282,False,False,34.7,Rocky,Strong,5
+FG214,Lorrainestad Area,40.347087,-65.527754,45,Continental Shelf,12.3,486,False,False,74.5,Muddy,Moderate,2
+FG215,Whitneyland Ground,39.795612,-69.124847,179,Sandy Bottom,17.5,224,False,False,59.9,Muddy,Moderate,6
+FG216,North James Ground,46.107563,-72.234199,190,Rocky Bottom,14.1,142,False,True,34.3,Rocky,Strong,9
+FG217,Jennifermouth Shelf,43.801342,-73.98782,163,Deep Water,14.6,285,True,True,10.4,Sandy,Moderate,2
+FG218,Lisaborough Ridge,36.333097,-71.333463,170,Sandy Bottom,17.3,368,False,False,9.9,Rocky,Weak,2
+FG219,Lake James Ground,46.587399,-69.825363,192,Rocky Bottom,14.4,328,True,False,96.8,Rocky,Strong,1
+FG220,Craigfurt Ridge,35.683398,-65.830664,166,Coastal,9.0,238,False,False,15.7,Mixed,Strong,7
+FG221,Port Trevormouth Area,38.191008,-66.805008,74,Deep Water,10.1,139,True,True,8.6,Muddy,Strong,8
+FG222,Port Bridget Ground,38.327497,-70.503626,98,Deep Water,8.8,464,True,False,67.6,Sandy,Strong,2
+FG223,Lawrenceville Ground,37.668155,-70.560195,164,Sandy Bottom,18.0,108,False,True,25.2,Muddy,Moderate,2
+FG224,North Ronaldborough Area,36.988148,-67.015125,109,Deep Water,16.8,262,True,True,16.2,Sandy,Weak,3
+FG225,Salinasview Ridge,37.862275,-70.855405,115,Sandy Bottom,15.9,316,False,False,50.9,Muddy,Strong,1
+FG226,Haynesstad Area,41.90138,-73.725188,39,Rocky Bottom,8.1,408,True,True,74.6,Mixed,Moderate,1
+FG227,West Jessica Banks,35.761881,-71.837289,98,Coastal,17.9,347,True,True,87.1,Sandy,Moderate,9
+FG228,West Anthony Ridge,45.601685,-73.364053,37,Continental Shelf,10.7,423,True,True,74.9,Sandy,Weak,9
+FG229,Port Lydiaport Area,45.881086,-74.632746,77,Continental Shelf,10.7,171,False,True,19.1,Sandy,Moderate,3
+FG230,Halltown Area,39.699472,-67.194391,96,Sandy Bottom,15.1,119,False,False,92.9,Rocky,Weak,10
+FG231,Williamsbury Ground,39.527306,-67.518906,68,Continental Shelf,12.3,403,False,True,75.2,Muddy,Moderate,9
+FG232,Carterville Banks,37.369308,-71.967717,80,Continental Shelf,8.0,209,True,False,100.0,Mixed,Moderate,3
+FG233,Flemingview Ground,44.506874,-73.168916,123,Sandy Bottom,17.2,126,False,True,36.2,Muddy,Strong,5
+FG234,Kennethside Banks,37.502324,-67.278535,104,Rocky Bottom,10.1,57,True,False,87.8,Muddy,Strong,1
+FG235,East Madisonbury Ridge,38.951276,-67.56301,101,Continental Shelf,8.3,458,False,True,15.3,Rocky,Weak,1
+FG236,Lake Elizabeth Banks,36.320794,-68.485902,164,Continental Shelf,11.0,450,False,True,97.3,Mixed,Weak,8
+FG237,Alvarezshire Ridge,40.790184,-71.484546,46,Deep Water,9.3,370,True,False,92.6,Mixed,Strong,1
+FG238,Jasonmouth Shelf,45.262372,-72.458482,168,Continental Shelf,14.6,365,False,True,41.0,Muddy,Strong,8
+FG239,Lake Rickchester Banks,42.144981,-67.413625,164,Deep Water,12.9,438,False,False,70.3,Muddy,Strong,6
+FG240,Shannonton Banks,39.03079,-66.531385,69,Deep Water,8.1,413,False,False,84.1,Mixed,Weak,2
+FG241,Juanberg Shelf,44.853092,-69.537908,167,Sandy Bottom,16.1,250,False,False,75.3,Rocky,Moderate,2
+FG242,Williston Banks,35.797514,-72.787506,178,Sandy Bottom,14.5,76,False,False,67.1,Rocky,Strong,2
+FG243,East Laurenberg Ground,42.879772,-65.87713,27,Deep Water,15.1,105,True,False,73.3,Rocky,Weak,5
+FG244,East Amanda Area,38.010899,-74.980086,183,Sandy Bottom,9.0,404,True,True,38.2,Muddy,Weak,2
+FG245,Lake Teresa Ridge,46.371821,-73.095177,134,Sandy Bottom,13.5,166,False,True,52.0,Muddy,Strong,6
+FG246,Lewishaven Ground,36.668911,-72.675899,36,Sandy Bottom,14.6,333,True,False,11.4,Sandy,Weak,3
+FG247,East Nathan Banks,35.071135,-68.450395,150,Continental Shelf,17.8,179,True,False,61.4,Mixed,Moderate,8
+FG248,North Carmenfurt Shelf,43.951781,-70.402612,87,Rocky Bottom,8.8,411,True,False,73.3,Rocky,Strong,1
+FG249,Cynthiafort Banks,37.237417,-73.620751,89,Deep Water,10.4,213,True,True,89.2,Sandy,Weak,8
+FG250,Mccarthyside Ground,43.457805,-67.200616,111,Continental Shelf,11.3,124,False,True,47.1,Mixed,Moderate,9
+FG251,Jonesshire Ridge,46.15333,-67.76443,85,Coastal,17.4,269,False,True,37.8,Muddy,Weak,7
+FG252,Lake Bruce Ridge,38.042301,-68.997328,168,Continental Shelf,13.3,58,True,False,78.9,Mixed,Moderate,8
+FG253,New Kimfurt Ground,43.741146,-74.686108,159,Coastal,17.3,313,False,False,25.5,Mixed,Weak,10
+FG254,Nathanielfort Area,38.265365,-72.857281,101,Sandy Bottom,10.7,137,False,True,61.4,Rocky,Strong,5
+FG255,North Michelle Shelf,38.331931,-66.64435,58,Deep Water,16.8,442,True,False,74.7,Sandy,Strong,1
+FG256,Montoyaview Banks,42.509918,-69.374205,102,Coastal,10.2,280,False,True,81.2,Muddy,Weak,9
+FG257,North Sherry Ridge,35.329705,-74.343221,96,Coastal,14.1,453,False,False,55.2,Muddy,Strong,6
+FG258,Elizabethborough Ground,38.39236,-68.578324,109,Coastal,17.9,464,True,True,82.9,Mixed,Strong,4
+FG259,Heatherside Ground,35.062154,-72.148241,65,Rocky Bottom,13.7,322,False,False,44.6,Mixed,Moderate,7

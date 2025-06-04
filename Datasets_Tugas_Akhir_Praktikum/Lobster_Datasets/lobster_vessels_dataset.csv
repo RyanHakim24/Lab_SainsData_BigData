@@ -1,0 +1,51 @@
+vessel_id,vessel_name,vessel_type,length_feet,beam_feet,hull_material,engine_horsepower,fuel_capacity_gallons,crew_capacity,built_year,home_port,registration_number,insurance_value,gps_equipped,sonar_equipped
+VSL001,"Campbell, Young and Chang Explorer",Offshore Vessel,56,25,Fiberglass,1259,1687,12,2013,Lake Victoria,REG5146,1445654,False,True
+VSL002,Hamilton-Osborne Hunter,Offshore Vessel,112,19,Aluminum,1450,833,7,2018,West Johnmouth,REG2268,238090,True,False
+VSL003,"Ramirez, Owens and Short Hunter",Lobster Boat,119,9,Wood,1183,277,9,2002,Simonview,REG4131,994619,False,False
+VSL004,English Ltd Seeker,Lobster Boat,77,10,Fiberglass,743,1561,5,2013,New Rebekahmouth,REG5759,911615,True,False
+VSL005,"Whitaker, Montoya and Schwartz Hunter",Lobster Boat,88,22,Fiberglass,556,1266,10,2000,Port Gracemouth,REG3407,406909,False,False
+VSL006,Pacheco Ltd Catcher,Day Boat,61,14,Aluminum,826,755,9,2010,Jamesburgh,REG7759,1098526,False,False
+VSL007,Love-Bates Explorer,Day Boat,54,9,Aluminum,1428,1100,5,2012,East Michelleport,REG2982,1997014,False,False
+VSL008,"Anderson, Carter and Webb Seeker",Offshore Vessel,35,10,Fiberglass,878,1817,6,2017,East Jessica,REG5388,1032273,True,True
+VSL009,Ibarra Group Explorer,Day Boat,71,13,Wood,976,1300,6,1997,North Haleymouth,REG6518,345534,True,True
+VSL010,Horton and Sons Explorer,Day Boat,63,15,Fiberglass,1054,407,4,1994,Triciamouth,REG6850,1805959,False,False
+VSL011,"Pope, Cook and Romero Explorer",Trawler,90,8,Aluminum,465,522,6,2001,North Ashley,REG8971,461330,False,True
+VSL012,"Frey, Barnes and Lewis Hunter",Lobster Boat,82,11,Steel,1472,1803,6,2002,Dannyhaven,REG1997,370359,False,True
+VSL013,"Edwards, Elliott and Anderson Hunter",Lobster Boat,61,12,Aluminum,783,153,6,1982,Timothyport,REG1609,106319,False,True
+VSL014,Pope PLC Explorer,Day Boat,79,11,Wood,825,674,10,1985,Wattsmouth,REG8268,290678,False,False
+VSL015,Hall Inc Hunter,Trawler,117,10,Aluminum,1162,1178,5,1988,Port Stephanie,REG4640,1414290,True,False
+VSL016,"Bryant, Myers and Orr Hunter",Lobster Boat,25,9,Steel,1195,1797,9,2009,West Danaport,REG2818,1177417,False,False
+VSL017,Erickson Group Catcher,Lobster Boat,82,15,Aluminum,1087,841,7,2018,Johnsonmouth,REG5422,404123,False,False
+VSL018,Torres LLC Explorer,Lobster Boat,34,25,Aluminum,759,1482,8,1991,Bushland,REG7700,1736386,False,True
+VSL019,"Clark, Alvarez and Gould Explorer",Day Boat,44,8,Wood,1432,303,12,2023,Cynthiafort,REG7872,1473687,True,False
+VSL020,Carr and Sons Hunter,Trawler,64,8,Fiberglass,1116,559,3,2019,Kiaraburgh,REG4116,1318949,False,False
+VSL021,"Green, Pratt and Shepard Seeker",Lobster Boat,93,22,Aluminum,496,1785,12,2006,Zacharyland,REG8299,1762130,False,False
+VSL022,"Robertson, Weiss and Miller Hunter",Offshore Vessel,105,10,Steel,309,1720,5,1990,East Lynnside,REG9265,880855,True,True
+VSL023,Huerta PLC Catcher,Offshore Vessel,37,22,Fiberglass,626,1394,11,2012,Erinmouth,REG7079,1708513,False,False
+VSL024,Huber PLC Catcher,Lobster Boat,44,22,Fiberglass,1388,468,9,2020,Port Christina,REG3807,458010,True,True
+VSL025,Johnson Ltd Catcher,Day Boat,70,25,Steel,608,1524,10,2014,Sharonfort,REG1404,1208855,False,True
+VSL026,Hernandez-Ramirez Catcher,Trawler,51,21,Aluminum,1494,149,7,1986,North John,REG2734,250381,True,True
+VSL027,"Carney, Hayes and King Seeker",Day Boat,34,8,Fiberglass,934,1224,6,1989,Danielburgh,REG6113,168427,False,True
+VSL028,Cain-Perez Catcher,Trawler,67,21,Aluminum,857,1883,6,1982,Kristinafurt,REG9381,1685831,True,False
+VSL029,Briggs-Grant Seeker,Offshore Vessel,76,12,Aluminum,557,1104,11,1992,Lake Angelafurt,REG4372,1329594,True,False
+VSL030,"Hughes, Taylor and Robinson Catcher",Trawler,73,22,Aluminum,1007,1103,2,1995,South Angelaview,REG2516,100944,False,True
+VSL031,Williams-Mullins Explorer,Day Boat,89,21,Fiberglass,1190,835,10,2007,Lake Emilyview,REG3056,845836,False,True
+VSL032,Thomas-Gutierrez Explorer,Lobster Boat,31,12,Wood,1273,1577,2,2014,Gouldville,REG3064,137124,False,False
+VSL033,"Wright, Wilson and Baker Seeker",Offshore Vessel,87,15,Wood,555,1669,3,1985,South Courtneyburgh,REG7274,993442,False,True
+VSL034,Torres LLC Catcher,Offshore Vessel,103,12,Aluminum,1444,536,6,1998,Tranchester,REG5014,333391,False,True
+VSL035,Ramsey-Hayes Catcher,Day Boat,25,8,Fiberglass,1353,854,8,2014,Charlesmouth,REG2140,1638073,True,True
+VSL036,Smith-Kim Explorer,Offshore Vessel,94,12,Steel,1073,1493,9,1988,Bernardfort,REG1686,1487541,True,False
+VSL037,Chang LLC Seeker,Offshore Vessel,25,11,Wood,897,769,2,2009,Stevenburgh,REG3394,1180522,False,True
+VSL038,"Harvey, Thomas and Chavez Catcher",Day Boat,48,13,Aluminum,1445,1302,5,1993,Lake Anthony,REG5647,186022,True,True
+VSL039,"Gutierrez, Allison and Sandoval Explorer",Trawler,105,12,Steel,816,1964,6,2005,Meadowsside,REG7673,1160122,False,False
+VSL040,"Price, Rocha and Ramsey Hunter",Trawler,64,24,Steel,935,1662,8,1996,New Christina,REG6235,1571252,False,False
+VSL041,Baker Ltd Hunter,Day Boat,97,14,Fiberglass,1089,1970,11,2020,Swansonton,REG1605,1165471,True,True
+VSL042,Grant-Woodard Catcher,Day Boat,49,13,Fiberglass,1385,265,9,1996,Huffmouth,REG9880,1104095,True,True
+VSL043,Campbell-Hunter Catcher,Offshore Vessel,60,13,Aluminum,1212,1033,3,2008,Port Crystalside,REG7972,1695362,False,False
+VSL044,Romero-Francis Hunter,Trawler,25,22,Aluminum,839,1785,4,1994,Maynardshire,REG7420,1414350,False,True
+VSL045,Leonard Inc Hunter,Offshore Vessel,105,25,Steel,414,947,5,1980,New Aliciaton,REG1584,807821,False,False
+VSL046,Hendrix Group Hunter,Offshore Vessel,115,21,Steel,684,1251,11,1990,Port Matthew,REG3653,1522668,False,True
+VSL047,Patton Group Explorer,Day Boat,111,25,Steel,1339,802,12,1991,Benjaminmouth,REG2209,1863290,False,False
+VSL048,Pugh-Perez Seeker,Day Boat,57,9,Aluminum,200,1517,4,2012,North Clinton,REG3324,330550,True,True
+VSL049,Allison PLC Hunter,Trawler,113,17,Steel,600,375,2,2012,South Lisaside,REG5232,844033,False,True
+VSL050,"Lara, King and Jones Catcher",Lobster Boat,67,20,Steel,1458,1685,6,2003,Langborough,REG4049,141440,False,True
