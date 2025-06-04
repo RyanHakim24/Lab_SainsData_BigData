@@ -1,0 +1,399 @@
+farm_id,farm_name,farm_address,city,land_area_acres,max_capacity,farm_type,established_year,organic_certified,latitude,longitude
+FRM001,Dixon and Sons Farm,"45355 Byrd Trail
+Hollyville, PW 31816",North Teresaport,67.22,412,Semi Modern,2021,True,30.780059,-80.521023
+FRM002,Fuller-Johnson Farm,"2856 Russell Dale Suite 702
+New Dianeville, CO 82718",Morrowport,21.2,419,Traditional,2005,False,25.935854,-71.740869
+FRM003,Hull Group Farm,"5083 Bailey Points Suite 744
+Murphymouth, WV 28951",Davidtown,54.45,226,Modern,2018,False,35.471101,-65.091441
+FRM004,Clark Inc Farm,"927 Joshua Summit Apt. 899
+Whitakerton, CT 92360",Mejiamouth,87.31,341,Modern,1991,True,38.704906,-117.183599
+FRM005,Russell-Carpenter Farm,"07749 Duncan Alley
+Cookfort, NY 23407",Lake Ericberg,40.45,309,Modern,2023,True,36.729004,-102.866579
+FRM006,Crane-Bailey Farm,"541 Autumn Meadows Suite 675
+North Patrick, LA 22721",Ayalatown,37.1,474,Organic,2001,True,36.142844,-71.95039
+FRM007,Rodriguez-Lee Farm,"1169 Ann Villages
+Angelaview, OK 02349",West Gregoryview,7.21,352,Semi Modern,2006,False,36.119471,-88.263931
+FRM008,"Miller, Allen and Graham Farm","71934 Black Camp
+Michaelbury, NH 49647",Lake Jeffview,58.61,365,Organic,2003,True,36.388677,-66.303394
+FRM009,Bowman-Obrien Farm,"11051 Hodges Unions
+New Kimberly, NV 37394",South Adrienneview,113.64,86,Semi Modern,2010,True,45.814604,-123.158107
+FRM010,Lawrence-White Farm,"09380 Hatfield Valleys Apt. 111
+Thomasfort, VA 95561",North Sarah,66.72,106,Organic,2010,True,37.678995,-66.74309
+FRM011,"Shepherd, Mckinney and Mcfarland Farm","PSC 7820, Box 6136
+APO AE 77968",West Nicholasfort,56.66,154,Organic,2015,True,30.206738,-115.215885
+FRM012,Cuevas-Mendez Farm,"969 Lynn Knoll Suite 630
+Russellfurt, WA 32401",Ericaview,19.17,102,Organic,2007,False,30.767693,-82.895539
+FRM013,Lawrence-Reynolds Farm,"097 Heather Neck
+Port Jennifer, MI 13411",Lake Laura,65.72,211,Modern,2009,True,40.252546,-76.315928
+FRM014,"Good, Lopez and Hill Farm","31402 Madden Plains
+West Hunter, SD 29144",New Stephenburgh,56.27,192,Modern,2018,False,43.233647,-77.488574
+FRM015,Johnston-Logan Farm,"8456 Lynn Throughway Suite 891
+South Vickifurt, VA 53330",North James,100.52,333,Organic,1998,True,27.155626,-71.680552
+FRM016,Montoya-Jackson Farm,"27998 Campbell Turnpike
+Lake Lauren, NJ 55178",Chelseahaven,62.64,363,Semi Modern,2002,False,39.648702,-75.186912
+FRM017,King Ltd Farm,"40904 Chapman Pines
+Powellton, NE 10122",Port Daryl,22.42,396,Organic,2016,False,25.199737,-99.95142
+FRM018,Mcintyre Inc Farm,"Unit 7092 Box 0117
+DPO AE 56025",South Bradley,15.36,93,Organic,2012,False,37.626185,-68.539999
+FRM019,Edwards-Leach Farm,"08179 Byrd Common Suite 065
+Fritzport, NE 18922",New Stevenburgh,43.11,91,Modern,1991,True,32.775235,-102.801855
+FRM020,Smith Ltd Farm,"823 Nina Dam Apt. 581
+East Tammy, KS 06205",South Kaylastad,13.25,485,Traditional,1993,False,34.59725,-123.215745
+FRM021,"Day, Lopez and Wallace Farm","058 Raymond Corners Apt. 085
+Wandaland, IL 35848",North Gary,51.38,400,Organic,2020,True,40.349021,-113.731997
+FRM022,Reyes-Harris Farm,"805 Lisa Branch
+Lake Robinview, ME 85046",West Ashleyborough,52.92,70,Modern,2003,True,47.010132,-70.737558
+FRM023,Oneal-Ortega Farm,"668 Holly Valley Apt. 235
+North Manuel, TX 96252",Laurafort,51.58,175,Semi Modern,2021,True,43.684823,-73.752004
+FRM024,Ferrell LLC Farm,"415 Jacob Keys
+Rodrigueztown, MD 11542",Gregoryburgh,51.21,409,Traditional,1990,False,40.900184,-97.825552
+FRM025,Wolfe-Charles Farm,"PSC 4763, Box 6886
+APO AP 19949",Kristenhaven,99.59,83,Traditional,2014,True,41.075884,-83.712667
+FRM026,Moore-Mason Farm,"74484 Danielle Lane
+Jameschester, AS 48555",New Anthonybury,91.41,106,Organic,2011,True,35.055798,-122.480695
+FRM027,Rivers Group Farm,"744 Steven Throughway Suite 589
+New Aliciachester, MI 20068",Perezshire,33.11,296,Semi Modern,1996,False,29.778074,-96.694569
+FRM028,Wong-Davis Farm,"57454 Michael Motorway
+Gomezburgh, MT 34349",Theresatown,80.25,60,Semi Modern,2011,False,46.033282,-95.911495
+FRM029,Thomas-Franklin Farm,"17704 Erika Spur
+New Margaretchester, WY 37925",Michaelmouth,7.98,145,Traditional,1993,False,47.525726,-68.537194
+FRM030,Andrews-Walker Farm,"273 Sweeney Hills Suite 895
+North Jason, MA 50555",Ericstad,44.41,384,Traditional,2018,True,46.780951,-121.582114
+FRM031,Ford Inc Farm,"62332 Alvarado Cliffs
+Danielchester, VI 77423",South Jaymouth,39.66,145,Modern,1999,True,28.145934,-104.229767
+FRM032,Robertson-Martin Farm,"Unit 7629 Box 7241
+DPO AA 63425",Valeriefort,32.51,460,Semi Modern,2002,False,39.619773,-83.822517
+FRM033,Patterson PLC Farm,"7588 Johnson Pass
+Port Tiffanystad, MO 18779",North Michelle,26.07,380,Traditional,2001,False,29.778445,-124.564097
+FRM034,Greene Inc Farm,"USCGC Jackson
+FPO AA 64687",West Tammy,40.39,386,Semi Modern,2005,True,30.232998,-87.261236
+FRM035,Le PLC Farm,"10087 Susan Wells
+Port Mary, AS 86543",West Glenn,29.43,121,Organic,2017,True,46.38009,-75.668026
+FRM036,Kirk-Smith Farm,"766 Dunn Summit
+Bauerside, NC 48522",Andreville,81.17,297,Modern,2009,False,46.609036,-72.877871
+FRM037,"Day, Newton and Deleon Farm","07800 Jackson Tunnel Suite 948
+West Miranda, FL 69104",East Nicholasport,2.42,374,Traditional,1997,True,45.153539,-98.306712
+FRM038,Ruiz LLC Farm,"824 Evans Gardens Apt. 232
+West Nicholas, ME 99057",Jacksonburgh,77.18,334,Traditional,2021,False,44.79805,-96.170643
+FRM039,Ferguson-Mathis Farm,"731 Amy Row Suite 588
+East Seanberg, DE 72999",East Sergiomouth,37.29,155,Semi Modern,2008,True,42.499023,-103.961242
+FRM040,Romero-Schneider Farm,"5950 Moore Trail Suite 624
+West Linda, WA 36192",Brownberg,93.37,312,Modern,2004,False,25.945468,-120.812853
+FRM041,"Guerra, Taylor and Lopez Farm","64524 Cole Plains
+Mariaside, FM 38818",Robertburgh,9.75,439,Traditional,2002,True,42.796785,-101.076229
+FRM042,Warren Group Farm,"491 Jennifer Drive Suite 948
+Emilyland, CA 85104",Terrychester,10.94,250,Semi Modern,2020,False,25.577112,-123.682427
+FRM043,Campbell-Williams Farm,"PSC 8605, Box 7325
+APO AA 39419",East Elizabethside,8.16,174,Modern,1996,True,34.482174,-77.025662
+FRM044,"Morrison, Lucas and Wilson Farm","2979 Graves Centers
+Port Kristin, AS 22698",Turnertown,87.53,445,Organic,2008,False,41.330487,-97.940301
+FRM045,Allen-Holt Farm,"8215 Baker Shoal
+Port Samuelview, UT 12626",Lake Kelly,114.64,261,Semi Modern,2012,True,25.307829,-108.956637
+FRM046,Richards and Sons Farm,"2668 Jacobs Stravenue Suite 320
+Jacksonburgh, TX 23129",Jenniferside,78.37,463,Organic,1990,True,35.571783,-110.823238
+FRM047,"Aguilar, Vargas and Morales Farm","3365 Hernandez Mall
+West Dennismouth, MP 51737",Christinaland,111.05,255,Semi Modern,2018,True,40.278987,-97.160747
+FRM048,Moore and Sons Farm,"98112 Hunter Prairie
+Lake Marciafurt, WI 85479",Port Thomaschester,16.48,359,Modern,1990,True,39.098828,-95.646194
+FRM049,"Wells, Lyons and Rodriguez Farm","0337 Mike Port Apt. 907
+Rossmouth, AK 54544",Jenniferview,10.67,85,Traditional,2001,True,39.529084,-74.088344
+FRM050,Thornton-Gonzalez Farm,"0414 William Parkways Suite 318
+Cherylland, SD 83255",South James,32.47,55,Organic,2012,False,36.228429,-74.643398
+FRM051,Jennings-Bell Farm,"56337 Wallace Burg
+East Mindy, RI 72730",East Mary,68.62,233,Organic,2007,False,39.552761,-84.540924
+FRM052,Arroyo Group Farm,"47069 Natasha Hills
+Roseburgh, NE 71957",North Alicia,63.35,96,Organic,1994,True,46.030999,-122.737537
+FRM053,Reynolds-Castro Farm,"5405 Melissa Causeway Apt. 704
+New Andrew, NM 81855",East Jeffreyborough,20.15,353,Semi Modern,2008,False,29.168961,-114.999275
+FRM054,Pruitt and Sons Farm,"85030 Gina Lodge Suite 758
+Masonside, WV 09307",Lake Alisonfort,26.23,199,Semi Modern,2003,True,27.240348,-110.427737
+FRM055,Evans Ltd Farm,"083 Steven Station Apt. 859
+West Jessicachester, UT 55194",Karenbury,99.58,441,Traditional,1993,True,31.943672,-69.860745
+FRM056,Cox Inc Farm,"USS Gill
+FPO AE 56646",Sullivanland,74.93,242,Traditional,2002,True,43.049373,-89.226003
+FRM057,Hernandez PLC Farm,"37773 Powell Walk Suite 701
+Kellyhaven, NY 32890",Brennanshire,82.22,347,Modern,2022,False,40.415986,-123.416604
+FRM058,Campos-Chavez Farm,"1316 Dawn Mall Apt. 690
+Acostastad, VI 34413",Erikatown,3.85,281,Modern,1999,True,25.476422,-83.304682
+FRM059,Campbell Group Farm,"00702 Angela Square
+Davidport, VT 72922",South Johnmouth,39.74,251,Semi Modern,1995,False,25.169352,-82.620669
+FRM060,"Miller, Ortiz and Jacobs Farm","70324 Diana Trail Suite 701
+Port Melissatown, SC 76976",Wilsonfurt,27.51,376,Traditional,2007,True,37.64294,-108.110486
+FRM061,Sullivan PLC Farm,"42809 Maria Port Apt. 011
+New Tylerside, FL 61280",Harrisport,28.49,485,Semi Modern,1990,False,30.471334,-103.870627
+FRM062,"Hays, Duncan and Lopez Farm","6858 Derek Grove Suite 282
+North Davidland, WI 62815",Dawsonborough,50.95,299,Organic,2005,True,25.83954,-89.798079
+FRM063,"Sandoval, Johnson and Werner Farm","643 Rodriguez Roads
+Port Christy, OR 96649",Rachelfort,115.16,245,Semi Modern,2001,False,28.292213,-85.587504
+FRM064,Brown Inc Farm,"68609 Amy Mills Suite 004
+Lunaburgh, DC 69583",Pereztown,73.26,247,Organic,2006,True,30.556416,-90.311651
+FRM065,Mata-Coleman Farm,"Unit 6929 Box 0192
+DPO AE 37456",Christinaburgh,33.64,496,Traditional,2004,False,33.698305,-101.421715
+FRM066,Adams Ltd Farm,"6836 Jesse Loop
+West Jon, CA 88163",Cisnerostown,113.51,82,Modern,2005,True,45.064239,-123.258804
+FRM067,Obrien Inc Farm,"PSC 9117, Box 9539
+APO AE 97454",Amandaville,28.92,320,Organic,2009,True,48.213492,-102.923918
+FRM068,Johns-Jimenez Farm,"0549 Jerry Lodge
+South Jennifer, IA 48243",Chandlerborough,85.53,153,Organic,1996,False,46.304725,-79.826822
+FRM069,Martin LLC Farm,"8526 Hill Shoals Apt. 003
+West Ashleymouth, MA 01577",North Ann,64.75,194,Traditional,2022,False,34.878174,-111.695427
+FRM070,Avila Ltd Farm,"5621 Graves Prairie Suite 578
+Austintown, KY 31756",Gracefurt,1.96,387,Modern,1999,True,28.647332,-121.935416
+FRM071,Hunter-Estrada Farm,"06492 Cohen Landing Suite 207
+Johnsonburgh, MH 79690",West Davidmouth,99.12,378,Traditional,2015,False,47.399694,-71.632268
+FRM072,"Bender, Conley and Buchanan Farm","9339 Timothy Plain Suite 516
+New Christina, HI 09422",Rogersfort,84.3,413,Traditional,2013,False,38.61829,-100.682203
+FRM073,Booth-Willis Farm,"57827 Jeffrey Forge Suite 892
+Dillonland, KY 99922",East Samuelfort,65.31,294,Traditional,2002,True,47.351871,-93.936509
+FRM074,"Reed, Long and Burgess Farm","482 Marshall Harbors
+Davisshire, FL 16443",Tylerburgh,2.78,364,Modern,1992,False,28.951815,-111.09622
+FRM075,Williams-Conley Farm,"846 Natalie Key
+Port Ryanmouth, CT 73067",South Mariah,102.35,366,Modern,1990,True,42.609594,-120.853877
+FRM076,"Estes, Wood and Clay Farm","99873 Steve Crossing
+Alisonmouth, ME 63817",Tamarafurt,69.45,405,Traditional,2017,True,30.45987,-87.33046
+FRM077,Castillo-Costa Farm,"7419 Colleen Crescent
+East Desireechester, MS 12285",East Monicahaven,25.28,414,Organic,1999,True,31.487757,-107.771264
+FRM078,"Wright, Parks and Brown Farm","Unit 2836 Box 0413
+DPO AA 35671",South Ryanborough,92.7,269,Modern,2013,False,27.919566,-85.069301
+FRM079,Jackson and Sons Farm,"34279 Burch Mission
+West Angelberg, AL 09228",North Elizabethstad,79.16,115,Semi Modern,2011,False,45.41917,-66.444632
+FRM080,Deleon-Watkins Farm,"438 Charles Alley Suite 021
+East Gabriel, MH 67808",New Lisa,16.72,193,Modern,2019,True,36.212419,-71.67582
+FRM081,"Stanley, Burns and Lewis Farm","7630 Cross Meadows
+Carolinefurt, AR 87333",Patriciabury,69.91,185,Modern,2014,True,35.794726,-106.078545
+FRM082,Edwards PLC Farm,"3088 Jose Street
+Curtischester, DE 51598",Kellyfurt,48.77,264,Modern,2008,False,42.611115,-124.837686
+FRM083,Carlson Group Farm,"6818 Susan Corners
+Bethfurt, GA 22899",Stanleymouth,87.09,300,Modern,1990,True,41.40666,-101.862864
+FRM084,Edwards-Ritter Farm,"5013 Susan Square
+Buchananstad, KY 29795",Randyhaven,19.27,309,Organic,1993,True,42.418461,-70.262358
+FRM085,"Blackwell, West and Bradford Farm","73647 James Grove Apt. 470
+Port Danielle, MP 77614",Christensenmouth,91.06,105,Traditional,2017,False,37.208209,-71.549171
+FRM086,Young Ltd Farm,"11240 Laura Causeway Suite 650
+Lake Colinland, MS 76526",Thomasshire,18.23,149,Semi Modern,2012,False,38.515815,-76.614956
+FRM087,Munoz PLC Farm,"220 Roach Court Apt. 289
+Hendersonburgh, NM 96580",Rachaelton,108.46,58,Traditional,1996,False,37.602251,-92.536699
+FRM088,Page Ltd Farm,"41181 Mark Brook Suite 441
+West Sandra, CO 67729",Lake Kevinfort,72.89,248,Modern,2006,True,41.791334,-114.18246
+FRM089,"Rivera, Mejia and Brewer Farm","008 Rebecca Island Apt. 741
+Jamestown, NY 66979",Elliottbury,119.44,139,Semi Modern,2016,True,35.187844,-87.792117
+FRM090,"Wallace, Payne and Fisher Farm","Unit 5435 Box 5810
+DPO AE 05089",New Rachelside,30.71,334,Semi Modern,1997,False,42.085717,-80.489665
+FRM091,"Galloway, Robinson and Bryant Farm","434 Lisa Ridges Suite 834
+Dukemouth, UT 26288",New James,75.29,471,Semi Modern,1994,False,35.333947,-93.971864
+FRM092,Jackson LLC Farm,"89627 Jody Plain Suite 539
+Port Vanessa, MN 05467",Johnsonburgh,18.08,458,Organic,2020,False,35.319586,-97.752749
+FRM093,Maxwell-Johnson Farm,"6755 Tracy Islands
+Port Heather, WA 34604",New Richardton,85.27,349,Modern,2015,True,35.797401,-96.66002
+FRM094,Carter-Knight Farm,"01780 Bryant Heights
+East Charles, NV 79556",Collinsmouth,77.35,321,Modern,2011,False,47.218071,-71.456565
+FRM095,"Peters, Nunez and Watson Farm","16954 Victor Canyon
+Harveyville, GA 21174",Melaniebury,109.11,444,Organic,1998,False,42.179943,-71.136054
+FRM096,Alexander-Austin Farm,"3578 Gonzalez Harbor
+Andrewborough, NC 72625",East Tashamouth,64.09,277,Traditional,2017,True,30.22367,-87.2278
+FRM097,Flores-Smith Farm,"USCGC Lopez
+FPO AE 27210",Lake Stephen,100.78,183,Organic,1999,False,43.421223,-98.429685
+FRM098,Andrade-Thomas Farm,"28459 Joshua Viaduct Apt. 982
+Lake Jillside, MO 10363",South Pamelaview,26.19,477,Organic,2023,True,30.62422,-121.062315
+FRM099,Patel Inc Farm,"136 Walter Forks Suite 066
+Port Rachel, AK 66371",Frederickfort,114.75,424,Semi Modern,2015,False,26.137318,-83.479597
+FRM100,"Roberts, Collins and King Farm","4498 Diana Isle Apt. 628
+Thomasland, ID 69777",Port Edwardstad,16.87,407,Semi Modern,1999,True,36.558578,-87.25017
+FRM101,"Cooley, Zamora and Andrews Farm","6891 Corey Street
+East Michaelchester, OR 83561",New Thomasfort,70.88,214,Organic,2001,False,27.138432,-110.244028
+FRM102,Williams LLC Farm,"032 Foster Brook Apt. 244
+New Marymouth, NC 35408",Johnstonfort,93.91,193,Modern,1996,True,30.763303,-75.874375
+FRM103,"Moore, Rivera and Goodman Farm","972 Good Cape
+Harrisbury, AK 22484",North Aaronbury,34.98,399,Traditional,2007,True,26.963558,-103.910461
+FRM104,Jackson-Howe Farm,"826 Janice Ramp Apt. 595
+West Aaronchester, AL 60694",Wheelerton,18.63,485,Modern,2011,True,31.024799,-106.643213
+FRM105,Oconnor-Jones Farm,"79597 Rush Extensions
+East Robin, NV 05925",Castanedaville,65.48,125,Modern,1993,True,37.653029,-81.385107
+FRM106,"Perez, Collins and Gibson Farm","5610 John Squares
+New Deborah, AS 23511",Andrewburgh,113.69,359,Semi Modern,1992,False,26.660631,-113.40299
+FRM107,"Phelps, Walker and Cook Farm","559 Evans Tunnel Apt. 452
+South Peggy, SC 06353",Christopherchester,83.49,88,Modern,2009,True,42.232846,-92.396139
+FRM108,Reynolds-Hogan Farm,"589 Keith Flat
+Davidport, TX 47660",Danielville,34.64,195,Semi Modern,2023,True,33.461663,-73.296493
+FRM109,"Bennett, Ortiz and Lopez Farm","9730 Holden Crescent Apt. 627
+Port Hectorberg, PA 31641",New Melaniemouth,106.24,119,Organic,1993,False,25.259643,-96.056823
+FRM110,Holloway-Carpenter Farm,"355 Hill Squares Suite 736
+Jameschester, MN 78839",West Shawnmouth,87.56,88,Modern,2020,False,31.995015,-111.099513
+FRM111,Brandt PLC Farm,"02340 Green Street Apt. 031
+Woodardbury, DC 70274",Phillipsville,119.76,104,Organic,1992,True,43.739412,-117.098628
+FRM112,"Villarreal, Walton and Pope Farm","16560 Paige Square
+North Nicole, SD 46838",West Kristopher,21.61,166,Modern,1994,False,47.8406,-97.574465
+FRM113,Bryant Group Farm,"5896 Jonathan Landing Apt. 611
+Josephmouth, VA 01934",Montoyabury,116.04,444,Semi Modern,1995,True,35.990674,-122.838623
+FRM114,"Cook, Calderon and Lee Farm","18156 Mahoney Springs Apt. 878
+Tylerfort, AS 12633",Jessicaberg,20.35,210,Organic,1990,True,27.270116,-79.835396
+FRM115,Irwin Group Farm,"982 Frost Vista Apt. 644
+Colemanside, CA 62008",Moonstad,102.18,296,Semi Modern,1992,False,46.764758,-115.61457
+FRM116,Berger-Cobb Farm,"594 Eric Knolls Suite 205
+Lake Betty, OH 15602",Kempberg,93.25,379,Modern,2002,True,33.43246,-117.972012
+FRM117,Martinez-Ramirez Farm,"247 Terrell Stream
+Deleonmouth, PR 07458",Lake Erinland,91.13,361,Organic,1997,False,48.62522,-76.124151
+FRM118,Melendez-Chandler Farm,"Unit 2515 Box 4209
+DPO AP 46434",Lake Thomasbury,86.81,226,Organic,1995,False,34.781338,-99.63496
+FRM119,Pena-Williams Farm,"6098 Horn Route Suite 694
+Port Stacey, NY 10432",East Paulahaven,65.6,254,Modern,2014,False,40.533335,-107.936203
+FRM120,Molina-Mitchell Farm,"155 David Crossroad Apt. 629
+Lake Michaelhaven, WA 01639",Bradyfurt,39.56,344,Organic,1990,False,47.334121,-115.39919
+FRM121,Larson Group Farm,"487 Webb Spurs
+Lake Zacharychester, OR 48151",Pricestad,42.68,247,Organic,2009,True,38.408608,-76.794929
+FRM122,"Morris, Harris and Stewart Farm","756 Stephens Plain
+Allisonton, GU 87558",Toddton,63.9,290,Traditional,1994,True,46.963612,-100.349112
+FRM123,Lewis-Hess Farm,"9625 Kevin Harbors Suite 415
+New Sharon, MO 96315",Garciaberg,42.74,197,Semi Modern,1997,True,30.847128,-117.944383
+FRM124,Hopkins-Bailey Farm,"1558 Campbell Junctions Apt. 827
+Youngport, CT 86065",New Lisashire,83.68,401,Organic,1993,False,42.29752,-107.845161
+FRM125,Davis-Molina Farm,"10446 John Stravenue
+East Shawnbury, MA 99655",Kevinshire,37.84,500,Semi Modern,1991,False,45.364109,-96.56611
+FRM126,Smith-Norris Farm,"004 Ronnie Way
+Lake Christopherfurt, NV 63605",Lake Matthewmouth,85.91,59,Semi Modern,1992,True,30.416763,-96.519296
+FRM127,Villarreal-Tran Farm,"915 Castro Mountain
+South Daniel, ID 67937",Hansonhaven,73.51,257,Traditional,2022,False,42.185909,-115.350345
+FRM128,"Thomas, Shaw and Anderson Farm","23610 Todd Forest Apt. 679
+West Melissabury, CA 18324",West Danaborough,56.08,274,Traditional,2017,False,31.781979,-124.635228
+FRM129,Smith PLC Farm,"58041 Diana Cove
+Kimberlyhaven, NM 17598",Riveramouth,25.96,65,Modern,2020,False,35.216272,-82.069508
+FRM130,Church Group Farm,"0492 Daniel Stream Suite 536
+Maryfurt, CO 57500",South Brianside,11.33,56,Organic,1999,False,25.532054,-104.345736
+FRM131,Butler-Rojas Farm,"PSC 7957, Box 9159
+APO AE 24647",Lake Adamview,19.4,262,Semi Modern,2012,False,31.739006,-75.994092
+FRM132,Strickland PLC Farm,"458 Amber Knolls
+Lake Melissa, NE 32842",Brownmouth,60.93,388,Modern,1996,False,32.37326,-107.185679
+FRM133,Smith Group Farm,"22135 Donna Passage
+South Martha, OH 91706",West Stephenton,115.39,174,Semi Modern,2010,True,42.250254,-78.453397
+FRM134,"Armstrong, Campbell and Williams Farm","8720 Peter Street Apt. 026
+North Thomas, NH 70858",Ramirezside,42.82,124,Organic,2004,False,29.934951,-92.878901
+FRM135,"Newton, Willis and Adams Farm","46466 Kayla Port Suite 312
+New Glen, ND 47333",Ryanville,8.03,484,Organic,1996,False,36.490474,-88.962043
+FRM136,"Wilson, Anderson and Smith Farm","55688 Fuller Tunnel Suite 869
+South Ericastad, WI 73683",Acostabury,68.1,194,Semi Modern,1995,True,25.247539,-112.056477
+FRM137,Andrews Ltd Farm,"563 William Unions Suite 824
+Masonhaven, UT 48260",South Jacqueline,1.32,355,Modern,1991,False,43.770486,-117.534689
+FRM138,"Allison, Robles and Ellis Farm","587 Shirley Vista
+Cartertown, GA 79365",Port Christopherland,1.56,184,Organic,2022,False,27.707307,-85.396867
+FRM139,Smith-Gaines Farm,"Unit 9045 Box 4330
+DPO AP 34295",Younghaven,71.94,296,Semi Modern,2004,True,44.198914,-121.586848
+FRM140,Morgan Group Farm,"5903 Tony Junctions Apt. 577
+Port Christopher, PA 82912",East Lisaside,22.63,73,Traditional,1997,False,39.470154,-93.462299
+FRM141,Adams-Hudson Farm,"733 Wilson Track
+Harrisville, LA 12579",Gloverfort,17.41,401,Organic,2012,True,38.775152,-70.781279
+FRM142,Spencer Ltd Farm,"49028 Carr Ports
+Thomasville, MA 21721",West Jeremytown,117.27,480,Modern,2019,True,39.734008,-74.774497
+FRM143,"Miller, Bailey and Mahoney Farm","18787 Barry Village Apt. 802
+Curryhaven, GA 33297",Bobbyview,27.15,247,Modern,2015,True,40.091383,-99.71013
+FRM144,"Ward, Stein and Burns Farm","80182 Michael Loop Suite 466
+Lake Vincentfurt, MI 49488",New Olivia,14.44,363,Organic,1992,True,46.50489,-93.810499
+FRM145,Olsen Group Farm,"1961 Mcgrath Spur
+West Tammy, AK 77266",East Lindabury,19.47,446,Semi Modern,2003,True,29.385036,-102.559791
+FRM146,"Garza, Walters and Sheppard Farm","640 Pittman Passage Suite 786
+South Joshua, IN 10134",South Robert,55.54,216,Organic,1998,False,41.607903,-105.008185
+FRM147,"Thomas, Walker and Thomas Farm","21347 Robert Points Apt. 604
+North Sarah, ND 64824",Jamiebury,16.71,376,Modern,1991,True,47.784883,-73.795552
+FRM148,"Ellis, Miller and Ward Farm","9764 Murray Ridge
+Angelatown, GU 64022",Laurenfurt,75.95,324,Organic,1999,True,34.820808,-100.914122
+FRM149,"Fox, Wolf and Carr Farm","7037 Brandon Vista Suite 294
+South Christina, OH 46200",Lake Janetown,103.99,473,Organic,2021,False,36.685558,-81.340783
+FRM150,Burns-Williams Farm,"32024 Jay Vista
+Cameronland, VA 79770",North Brian,106.66,329,Organic,1997,True,45.486709,-94.257016
+FRM151,"Pierce, Wilson and Bradford Farm","4260 Murphy Wells Apt. 846
+Higginsmouth, UT 33208",Lake Rebecca,31.25,307,Semi Modern,2021,True,25.036302,-122.63544
+FRM152,Lawrence-Barrett Farm,"5549 Andrews Track
+Port Pamelaland, DE 73736",Meghanstad,84.68,158,Semi Modern,2011,False,37.194998,-92.549849
+FRM153,Garcia-Turner Farm,"5747 Mills Forge
+Christinachester, MT 86172",Toddchester,45.74,274,Modern,2022,True,34.616962,-73.70478
+FRM154,Cross Group Farm,"9309 Toni Streets
+Andreaburgh, LA 15016",New Jacquelineberg,77.04,270,Traditional,2021,False,25.197305,-111.939211
+FRM155,James-Boyd Farm,"44343 Teresa Forest Suite 018
+East Martinview, GA 01670",North Caitlyn,10.15,418,Modern,1993,False,29.920355,-91.49954
+FRM156,Brown Group Farm,"3536 Aguirre Plaza
+Christopherborough, AK 27093",Stewartside,1.29,231,Semi Modern,1994,False,48.137324,-124.620381
+FRM157,"Craig, Morris and Cobb Farm","46543 Christina Field Suite 402
+Port Angela, OK 81896",Spearstown,90.5,405,Semi Modern,2013,True,32.259698,-92.490471
+FRM158,"Lee, Pugh and Miller Farm","6887 Carol Roads Apt. 725
+Batesfort, HI 63915",Port Sara,78.67,334,Modern,2001,False,32.880811,-120.873184
+FRM159,Garcia PLC Farm,"USS Lewis
+FPO AP 64660",South Chad,109.94,82,Organic,2023,False,30.245023,-67.467838
+FRM160,"Thomas, Young and Lewis Farm","346 Stephanie Underpass
+Bethton, FM 01206",Jadeville,96.11,249,Traditional,1996,True,29.486012,-103.462597
+FRM161,Jackson Ltd Farm,"7486 Lawson Tunnel Suite 007
+Palmerberg, ID 01408",East Maria,81.83,311,Traditional,2014,False,41.709669,-79.733925
+FRM162,Porter Inc Farm,"61733 Dudley Rapids Suite 587
+Vanessaton, LA 10656",New Guybury,77.72,237,Semi Modern,2006,False,43.251267,-89.406807
+FRM163,Hayes Group Farm,"9670 Baldwin Loaf
+Lake Heather, MI 42626",Campbellview,91.05,268,Traditional,2006,True,32.873517,-69.02392
+FRM164,"Buchanan, Holt and Norman Farm","946 Leslie Estates
+Port Matthewburgh, NE 54560",Armstronghaven,3.54,429,Traditional,1994,True,47.108482,-77.295897
+FRM165,"Davis, Daniels and Palmer Farm","783 Theresa Fork Suite 037
+Jamesstad, MP 36404",Trujillofort,87.49,336,Traditional,2022,False,30.660284,-113.815651
+FRM166,Le-Wiley Farm,"USS Peck
+FPO AE 41122",Olsonhaven,98.05,207,Modern,2021,False,44.843068,-106.281375
+FRM167,Martinez Ltd Farm,"5646 George Mountains
+Port Joystad, AR 35690",South Cathybury,22.78,352,Modern,1994,True,47.578042,-91.582852
+FRM168,"Allen, Harris and Holt Farm","038 Leah Fields
+Catherinefurt, IN 73642",Lake Nathanielborough,91.28,220,Semi Modern,2004,True,27.472694,-122.046927
+FRM169,Jones-Simmons Farm,"836 Danielle Isle Suite 230
+Gabrielbury, CO 85017",North Brandonmouth,19.35,245,Modern,1998,True,41.401361,-122.620158
+FRM170,Orr Inc Farm,"6061 George Orchard
+Jasmineview, VT 83599",Mindyburgh,55.4,222,Traditional,1994,True,29.400774,-75.93151
+FRM171,Rodriguez PLC Farm,"2311 Patricia Freeway Suite 407
+Mcmahonmouth, DE 31852",South Kennethport,42.91,286,Traditional,2009,False,44.160595,-119.925639
+FRM172,"Douglas, Robinson and Martinez Farm","478 Brown Street Apt. 819
+Josephville, MA 76752",Bakerchester,31.88,123,Semi Modern,2007,True,44.084166,-123.901822
+FRM173,"Miles, Bell and Brown Farm","8071 Melissa Springs
+Jennaton, SD 16798",Taylorfort,105.78,364,Modern,2022,False,46.12279,-75.396843
+FRM174,Haley Group Farm,"853 Patterson Roads Suite 882
+Howardborough, AR 75915",Smithberg,108.22,156,Semi Modern,2021,False,29.038202,-65.920844
+FRM175,Hernandez PLC Farm,"78216 Ashley Ports Apt. 889
+Herrington, NH 94330",Ashleymouth,1.89,233,Modern,1992,True,48.595031,-101.403109
+FRM176,Henson-Johns Farm,"563 Lewis Fork
+New Matthewfort, NH 46095",Port Jon,91.55,241,Traditional,2007,True,45.221498,-105.986493
+FRM177,Quinn-Gordon Farm,"086 Amy Stravenue
+East Ashleymouth, GA 72679",North Lisa,94.96,469,Modern,2010,False,39.449833,-117.700703
+FRM178,Nixon Inc Farm,"USS Thompson
+FPO AP 78120",Wheelerside,117.23,57,Organic,1993,True,35.449058,-95.845105
+FRM179,"Ramirez, Gonzalez and Velasquez Farm","6289 Jonathan Drives
+Stevenshire, IN 81336",East Timothyland,67.31,451,Semi Modern,2020,True,34.332706,-71.087487
+FRM180,Walton Group Farm,"0772 Davis Road Suite 361
+North Devonmouth, PR 16349",South Ryanberg,6.71,226,Semi Modern,2020,False,48.445582,-96.912121
+FRM181,"Keller, Hall and Garza Farm","907 Coleman Plain Suite 590
+Zimmermanmouth, MN 10012",Hillton,86.39,455,Traditional,1997,False,31.600521,-95.330704
+FRM182,Ward LLC Farm,"1183 Smith Curve
+New Meganhaven, SD 22711",North Apriltown,70.0,58,Modern,1999,True,38.024402,-107.950636
+FRM183,Craig and Sons Farm,"3264 Angela Gateway Suite 361
+South Brandi, NV 55306",East Valerie,6.97,61,Traditional,2000,False,44.313765,-69.264218
+FRM184,Weeks-Torres Farm,"17282 Bradley Estates
+West James, MS 29612",Valencialand,55.37,128,Modern,2019,True,48.429591,-65.898375
+FRM185,Lyons LLC Farm,"68395 Byrd Mission
+Port Kathrynfurt, MT 44082",Dawntown,3.64,130,Traditional,2004,False,43.232311,-110.248431
+FRM186,"Garrett, Terrell and Robinson Farm","10691 Tyler Center
+Loriport, TN 53117",Lake Briannatown,75.93,204,Traditional,2013,True,29.823885,-84.143628
+FRM187,Hancock-Lynch Farm,"5092 Solis Club
+South Mary, WY 42915",Lake Wendystad,93.56,50,Traditional,2016,False,48.336822,-74.770366
+FRM188,Austin PLC Farm,"023 Trujillo Shore Apt. 948
+Port Bethton, ID 37673",Kathleentown,82.51,328,Modern,1993,False,47.434998,-87.537301
+FRM189,Sharp LLC Farm,"12888 Powers Landing Suite 050
+Port Ryan, OH 28276",East Chloeburgh,86.73,151,Organic,1994,False,33.473796,-69.747646
+FRM190,"Meyers, Cortez and Johnson Farm","76276 Samuel Track Apt. 780
+Millerton, CA 47099",Arnoldborough,9.44,116,Traditional,2008,False,32.742247,-92.740704
+FRM191,"Sanders, Simpson and Lloyd Farm","Unit 1962 Box 3421
+DPO AP 36325",North Kimberlyfurt,13.55,463,Semi Modern,2001,True,45.976204,-123.673262
+FRM192,Carrillo-Williams Farm,"30862 Destiny Canyon Suite 176
+Maysmouth, IA 67098",North Cristina,96.43,84,Modern,2000,False,45.636063,-120.224555
+FRM193,Guerrero Inc Farm,"146 Johnson Gardens
+Thomaston, TN 13414",Jonestown,97.47,274,Organic,2022,False,38.538301,-123.747536
+FRM194,Thomas-Perez Farm,"88118 Mack Street Suite 774
+Lake Christine, ME 45164",Lake Stephenberg,115.72,288,Traditional,1990,False,29.402734,-105.652957
+FRM195,Ochoa PLC Farm,"2828 Riggs Bypass
+Port Alyssaburgh, OH 24592",Port Sheri,100.82,72,Traditional,2018,False,32.993259,-120.339477
+FRM196,Patterson-Wright Farm,"9173 Nicholas Crescent Apt. 048
+Wilsontown, NJ 44803",Rebeccastad,82.6,461,Traditional,2001,True,45.330761,-77.859588
+FRM197,Lindsey LLC Farm,"7880 Barron Dale
+Williamburgh, ME 89501",South Reneeville,27.31,58,Modern,2007,False,25.430234,-66.645195
+FRM198,"Richards, Leonard and Jones Farm","69822 Tyler Mews
+Kruegerstad, MT 53350",Humphreyton,90.56,59,Organic,2017,True,42.456278,-95.418224
+FRM199,"Carr, Thomas and Gonzalez Farm","79113 Michael View Apt. 892
+Salinaston, NV 93826",Johnsontown,46.24,214,Semi Modern,2020,True,38.863189,-77.65971
