@@ -1,0 +1,201 @@
+farm_id,farm_name,farm_type,management_system,capacity,current_population,established_year,province,latitude,longitude,total_area_hectare,owner_id,certification_status
+1,Peternakan_AA,Backyard,Semi-Intensive,8294,6677,2003,Jawa Barat,4.396788,121.103202,47.21,18,ISO
+2,Peternakan_AB,Small Scale,Extensive,9761,7997,2009,Kalimantan Selatan,-0.203042,104.484013,24.91,35,Multiple
+3,Peternakan_AC,Industrial,Organic,2406,6988,1996,Jawa Barat,3.121108,106.762197,43.18,92,Organic
+4,Peternakan_AD,Small Scale,Free Range,2696,5980,2001,Sumatera Utara,-7.260984,102.506557,41.27,71,None
+5,Peternakan_AE,Medium Scale,Intensive,9956,5168,1997,Banten,-7.09834,130.422945,7.09,61,Organic
+6,Peternakan_AF,Industrial,Organic,848,2592,2022,Bali,-5.203576,96.540647,8.17,15,Halal
+7,Peternakan_AG,Industrial,Organic,6767,5171,1995,Jawa Barat,2.040951,132.362447,20.48,83,ISO
+8,Peternakan_AH,Industrial,Semi-Intensive,1737,5854,2012,Bali,-3.654389,106.92068,47.4,67,None
+9,Peternakan_AI,Medium Scale,Intensive,4083,7732,1997,Jawa Tengah,4.241564,137.109433,3.59,28,ISO
+10,Peternakan_AJ,Backyard,Extensive,910,1283,2000,Lampung,0.568209,111.862187,32.39,3,Multiple
+11,Peternakan_AK,Industrial,Free Range,6151,2143,2023,Kalimantan Selatan,-2.735268,104.798635,47.71,45,ISO
+12,Peternakan_AL,Large Scale,Intensive,9671,5149,1998,Jawa Timur,-4.514104,119.666949,39.28,13,Halal
+13,Peternakan_AM,Industrial,Organic,990,7755,2013,Sumatera Utara,2.819382,128.684526,17.17,100,Organic
+14,Peternakan_AN,Small Scale,Extensive,6106,5849,2010,Sumatera Utara,-3.964272,138.530784,8.95,79,Organic
+15,Peternakan_AO,Backyard,Organic,147,954,2002,Sumatera Utara,2.955655,127.660674,24.19,96,Multiple
+16,Peternakan_AP,Backyard,Semi-Intensive,2338,6746,2010,DI Yogyakarta,5.673955,110.931544,29.82,26,Multiple
+17,Peternakan_AQ,Backyard,Intensive,8174,5299,2018,Kalimantan Selatan,-3.598635,106.057266,5.28,54,ISO
+18,Peternakan_AR,Large Scale,Semi-Intensive,3348,3077,2022,Bali,2.523302,137.430104,18.43,17,Multiple
+19,Peternakan_AS,Backyard,Intensive,9367,5558,2002,Bali,-5.965016,110.360985,9.75,83,Halal
+20,Peternakan_AT,Large Scale,Intensive,1285,5461,2011,Sumatera Utara,-4.978368,122.13061,45.47,25,Multiple
+21,Peternakan_AU,Medium Scale,Organic,1224,1708,2015,Sumatera Utara,1.430838,140.977516,5.15,84,Halal
+22,Peternakan_AV,Large Scale,Organic,3294,1260,2008,Jawa Tengah,5.377984,122.898624,7.82,89,ISO
+23,Peternakan_AW,Large Scale,Free Range,9555,754,2000,Banten,-2.017342,126.467762,33.88,60,None
+24,Peternakan_AX,Small Scale,Intensive,9373,3838,2022,Kalimantan Selatan,-5.904781,129.719158,39.57,30,ISO
+25,Peternakan_AY,Industrial,Intensive,9399,6785,1995,Lampung,-0.617452,95.494355,9.01,1,None
+26,Peternakan_AZ,Backyard,Organic,6083,869,2007,DI Yogyakarta,4.641862,131.915469,13.46,30,Multiple
+27,Peternakan_BA,Large Scale,Semi-Intensive,2379,6834,2016,Jawa Barat,-5.09658,136.267699,10.05,97,Halal
+28,Peternakan_BB,Small Scale,Organic,1846,7854,2014,Bali,-0.977416,114.371599,13.45,8,Halal
+29,Peternakan_BC,Medium Scale,Organic,421,3666,1997,Banten,-0.784252,130.093864,46.91,68,None
+30,Peternakan_BD,Medium Scale,Extensive,3809,937,2002,Lampung,-2.329248,114.810519,13.69,35,Halal
+31,Peternakan_BE,Medium Scale,Intensive,1572,218,2010,Banten,1.981928,103.222406,22.11,10,Multiple
+32,Peternakan_BF,Backyard,Intensive,6309,7765,1999,Jawa Timur,-3.72904,112.531924,20.72,21,Halal
+33,Peternakan_BG,Industrial,Organic,1659,2189,2000,DI Yogyakarta,-6.073398,117.879267,25.56,9,Multiple
+34,Peternakan_BH,Industrial,Organic,8273,5370,2012,Sumatera Utara,-4.013061,129.030586,47.69,39,Multiple
+35,Peternakan_BI,Large Scale,Intensive,486,826,2015,Banten,4.498485,139.215347,42.67,53,Organic
+36,Peternakan_BJ,Industrial,Free Range,6535,6592,2014,Banten,-6.36584,126.415091,39.62,65,ISO
+37,Peternakan_BK,Medium Scale,Intensive,7468,832,2002,Jawa Tengah,0.136073,117.000527,11.6,86,Organic
+38,Peternakan_BL,Small Scale,Semi-Intensive,1049,5739,2019,Bali,5.972895,97.848476,29.7,34,Halal
+39,Peternakan_BM,Medium Scale,Extensive,5566,4787,2005,Sumatera Utara,4.520809,125.929742,28.35,85,Organic
+40,Peternakan_BN,Small Scale,Intensive,9234,7335,1999,Bali,-5.187973,96.34494,38.84,63,Multiple
+41,Peternakan_BO,Small Scale,Extensive,3738,2779,2006,Jawa Tengah,-3.193499,103.657472,18.92,90,ISO
+42,Peternakan_BP,Industrial,Intensive,9467,2985,1997,Sulawesi Selatan,-3.336937,135.476255,28.18,81,ISO
+43,Peternakan_BQ,Large Scale,Free Range,1846,862,2012,Jawa Barat,-5.252972,99.04211,48.78,28,Multiple
+44,Peternakan_BR,Large Scale,Organic,569,3369,2010,Jawa Timur,0.730897,109.997062,31.73,65,Organic
+45,Peternakan_BS,Large Scale,Organic,6596,7625,1997,Bali,0.00115,136.912311,4.42,62,ISO
+46,Peternakan_BT,Backyard,Semi-Intensive,4643,2693,2020,Jawa Barat,-1.50638,111.534735,41.24,100,None
+47,Peternakan_BU,Small Scale,Intensive,1350,1925,2000,Sulawesi Selatan,2.531153,97.339493,16.74,50,ISO
+48,Peternakan_BV,Backyard,Organic,1670,6604,2015,Sulawesi Selatan,-1.2523,113.676129,28.79,40,None
+49,Peternakan_BW,Backyard,Intensive,5878,3897,2006,Sulawesi Selatan,-7.415518,136.72168,24.76,83,ISO
+50,Peternakan_BX,Small Scale,Semi-Intensive,4973,7144,2022,Kalimantan Selatan,-5.808465,130.799947,37.48,88,Halal
+51,Peternakan_BY,Small Scale,Semi-Intensive,2097,765,1997,Jawa Barat,5.441297,138.118744,16.33,84,Organic
+52,Peternakan_BZ,Medium Scale,Intensive,1105,695,2017,Sumatera Utara,-6.21201,109.574529,13.28,95,Multiple
+53,Peternakan_CA,Medium Scale,Organic,5125,2920,1998,Jawa Timur,-5.648691,122.267744,10.87,71,Multiple
+54,Peternakan_CB,Large Scale,Semi-Intensive,2633,6980,2009,Kalimantan Selatan,0.12105,104.650685,12.7,95,ISO
+55,Peternakan_CC,Backyard,Free Range,8400,2826,1999,Lampung,5.60506,135.322759,42.44,27,Halal
+56,Peternakan_CD,Industrial,Organic,9377,5453,1995,Banten,-6.222735,119.374438,25.75,68,ISO
+57,Peternakan_CE,Medium Scale,Extensive,2976,3684,2005,Sumatera Utara,-1.817389,140.85869,5.82,92,Halal
+58,Peternakan_CF,Industrial,Intensive,7647,991,2012,Kalimantan Selatan,-7.943934,110.564311,11.08,72,Organic
+59,Peternakan_CG,Industrial,Extensive,6283,4345,1996,Banten,2.893536,100.211497,9.11,75,None
+60,Peternakan_CH,Backyard,Extensive,1342,3925,2010,Lampung,-2.857193,130.715367,45.21,37,None
+61,Peternakan_CI,Industrial,Intensive,5921,1116,2019,Kalimantan Selatan,3.113719,130.92802,37.0,69,None
+62,Peternakan_CJ,Small Scale,Extensive,7766,5774,2002,Jawa Timur,3.752363,104.2634,16.84,63,ISO
+63,Peternakan_CK,Medium Scale,Semi-Intensive,2913,6736,2023,Bali,-4.161752,122.75508,16.86,97,Multiple
+64,Peternakan_CL,Industrial,Organic,3496,5345,2002,Jawa Timur,-5.422885,134.571084,17.97,85,ISO
+65,Peternakan_CM,Small Scale,Free Range,8315,5031,1998,Banten,4.609008,95.300984,49.03,39,Halal
+66,Peternakan_CN,Medium Scale,Free Range,5628,2904,1996,Jawa Barat,1.592859,108.807252,30.23,95,Multiple
+67,Peternakan_CO,Small Scale,Extensive,3488,7648,2006,Sulawesi Selatan,2.909132,116.984281,6.58,62,Halal
+68,Peternakan_CP,Industrial,Organic,3182,7816,2002,Kalimantan Selatan,4.197883,100.531002,41.71,26,Halal
+69,Peternakan_CQ,Industrial,Semi-Intensive,6577,1792,1995,Jawa Tengah,-1.983725,115.324094,22.18,62,Organic
+70,Peternakan_CR,Industrial,Organic,9766,7435,2015,Banten,-3.137181,111.296161,1.09,36,Halal
+71,Peternakan_CS,Medium Scale,Extensive,9544,2902,2006,Sulawesi Selatan,-6.324199,117.595428,8.14,7,Multiple
+72,Peternakan_CT,Small Scale,Semi-Intensive,5752,3610,2002,Banten,-2.450536,137.229104,24.77,73,Multiple
+73,Peternakan_CU,Medium Scale,Organic,4855,1186,1995,Sumatera Utara,2.490221,105.89684,34.4,66,None
+74,Peternakan_CV,Medium Scale,Semi-Intensive,5284,3244,2015,Sulawesi Selatan,3.370707,116.492592,45.3,9,Multiple
+75,Peternakan_CW,Small Scale,Intensive,9569,2650,2007,Jawa Barat,-0.304422,123.499461,34.68,38,Halal
+76,Peternakan_CX,Medium Scale,Extensive,4857,3776,2000,Sulawesi Selatan,-7.812096,122.694662,4.82,28,Multiple
+77,Peternakan_CY,Small Scale,Semi-Intensive,9728,3860,1998,Jawa Barat,-1.741351,140.2851,34.97,27,Halal
+78,Peternakan_CZ,Large Scale,Free Range,5886,959,2000,Jawa Timur,2.739792,127.519601,40.36,57,None
+79,Peternakan_DA,Large Scale,Extensive,9257,7291,2008,Sumatera Utara,-3.074949,138.394479,0.64,38,Halal
+80,Peternakan_DB,Industrial,Free Range,8831,3618,2014,Sumatera Utara,-4.849373,103.715148,19.49,15,Halal
+81,Peternakan_DC,Backyard,Free Range,7617,2729,2012,Lampung,-4.579639,129.174404,12.83,70,Organic
+82,Peternakan_DD,Large Scale,Extensive,1815,3022,2002,Jawa Barat,-0.947586,117.226043,15.41,84,None
+83,Peternakan_DE,Backyard,Organic,7001,2953,2022,Banten,-5.001138,112.587488,20.45,66,Organic
+84,Peternakan_DF,Industrial,Free Range,5890,1011,2014,Sulawesi Selatan,-2.669414,103.976576,40.75,61,Organic
+85,Peternakan_DG,Small Scale,Organic,740,7115,2009,Lampung,-6.689004,112.766947,20.65,11,Multiple
+86,Peternakan_DH,Medium Scale,Free Range,5241,2022,2023,Lampung,-4.284146,106.289035,21.66,3,Halal
+87,Peternakan_DI,Medium Scale,Extensive,1403,703,2012,Sulawesi Selatan,-7.027787,133.324146,15.08,60,Organic
+88,Peternakan_DJ,Small Scale,Organic,5080,4420,2004,DI Yogyakarta,-7.325808,129.835844,44.42,100,Halal
+89,Peternakan_DK,Backyard,Extensive,7915,1734,2009,Sumatera Utara,-4.014285,131.378348,26.03,98,Organic
+90,Peternakan_DL,Small Scale,Organic,3977,1821,2015,Jawa Tengah,3.636756,101.674819,35.95,30,None
+91,Peternakan_DM,Small Scale,Extensive,6038,3445,2010,Kalimantan Selatan,-2.83253,132.338446,26.64,84,ISO
+92,Peternakan_DN,Backyard,Intensive,1149,1200,1999,Bali,-2.504485,134.946274,18.35,51,Halal
+93,Peternakan_DO,Medium Scale,Free Range,5272,4796,2017,Kalimantan Selatan,0.01123,99.039383,48.83,65,ISO
+94,Peternakan_DP,Medium Scale,Extensive,6687,4636,2013,Bali,4.473926,130.185869,39.01,92,Organic
+95,Peternakan_DQ,Small Scale,Extensive,6647,1042,2021,Jawa Barat,-4.650767,123.309531,24.79,13,Halal
+96,Peternakan_DR,Medium Scale,Organic,7003,1577,1996,Sumatera Utara,-1.243184,104.496929,18.48,73,Multiple
+97,Peternakan_DS,Medium Scale,Extensive,8364,7068,2009,DI Yogyakarta,0.146223,97.250906,36.38,63,ISO
+98,Peternakan_DT,Backyard,Organic,5536,7001,1995,Jawa Tengah,-7.448973,131.917716,15.02,55,Multiple
+99,Peternakan_DU,Industrial,Intensive,7013,1427,2015,Sumatera Utara,4.374552,137.383896,47.27,75,None
+100,Peternakan_DV,Large Scale,Organic,5313,3792,1998,Jawa Timur,-7.760058,108.370842,41.78,62,Halal
+101,Peternakan_DW,Backyard,Semi-Intensive,6328,7667,2017,Sulawesi Selatan,-4.121176,115.412411,33.17,71,None
+102,Peternakan_DX,Backyard,Organic,611,2009,2023,Banten,-2.821063,114.418794,36.92,69,Organic
+103,Peternakan_DY,Large Scale,Free Range,2207,3434,2014,Sumatera Utara,-2.259255,103.025722,38.96,52,ISO
+104,Peternakan_DZ,Medium Scale,Intensive,4172,432,2003,Jawa Tengah,1.741502,113.5335,11.72,39,None
+105,Peternakan_EA,Large Scale,Organic,3860,1707,1998,Banten,0.802004,103.514506,18.28,45,Halal
+106,Peternakan_EB,Backyard,Free Range,1828,4120,2019,Banten,4.41803,115.671549,20.03,79,Multiple
+107,Peternakan_EC,Medium Scale,Organic,2463,2144,2012,Jawa Barat,-2.758384,114.338222,17.2,71,Halal
+108,Peternakan_ED,Backyard,Extensive,2031,2747,2007,Kalimantan Selatan,-1.522972,123.633107,44.54,38,None
+109,Peternakan_EE,Small Scale,Extensive,8954,6942,2016,Bali,-1.203745,120.804095,41.04,28,ISO
+110,Peternakan_EF,Backyard,Extensive,5312,7132,2017,Kalimantan Selatan,2.718681,134.719984,30.47,32,Multiple
+111,Peternakan_EG,Medium Scale,Intensive,8095,1672,2021,DI Yogyakarta,-0.819616,119.145749,45.29,2,None
+112,Peternakan_EH,Backyard,Extensive,4818,3918,2005,Sulawesi Selatan,4.02273,133.020493,30.49,17,Organic
+113,Peternakan_EI,Industrial,Free Range,2453,1292,2009,Jawa Timur,2.94337,98.550275,3.29,18,ISO
+114,Peternakan_EJ,Industrial,Organic,2826,625,2023,Sumatera Utara,4.568442,118.516136,30.31,13,Multiple
+115,Peternakan_EK,Large Scale,Organic,8122,4650,2010,Lampung,1.879964,108.650476,33.1,10,Organic
+116,Peternakan_EL,Medium Scale,Free Range,6580,6828,1995,Kalimantan Selatan,5.252252,107.51365,7.91,53,ISO
+117,Peternakan_EM,Backyard,Free Range,6390,4154,2011,Lampung,2.386776,100.40307,36.05,19,Organic
+118,Peternakan_EN,Medium Scale,Intensive,4801,4694,2009,Lampung,4.872257,121.301207,21.33,78,Organic
+119,Peternakan_EO,Medium Scale,Extensive,128,2584,2020,Jawa Tengah,-2.691688,136.23636,43.17,76,Organic
+120,Peternakan_EP,Industrial,Intensive,5829,2328,2016,Jawa Timur,-3.556544,113.051561,33.47,11,None
+121,Peternakan_EQ,Industrial,Organic,9493,2868,2015,Lampung,-5.853174,124.453467,14.17,51,Halal
+122,Peternakan_ER,Backyard,Organic,3031,6741,2019,Banten,-6.39301,126.678913,3.08,27,Halal
+123,Peternakan_ES,Backyard,Organic,2678,2515,2002,Bali,2.769867,96.546641,28.08,74,Multiple
+124,Peternakan_ET,Large Scale,Organic,9388,6344,2008,Jawa Timur,1.769797,134.934873,16.42,10,Multiple
+125,Peternakan_EU,Small Scale,Semi-Intensive,8238,5196,2009,Jawa Barat,5.105268,103.539487,11.58,94,Organic
+126,Peternakan_EV,Small Scale,Organic,6321,1870,2021,Kalimantan Selatan,-0.772133,115.420191,36.61,19,Organic
+127,Peternakan_EW,Large Scale,Extensive,2682,5496,2001,Bali,-0.658355,115.49139,22.33,56,Organic
+128,Peternakan_EX,Medium Scale,Semi-Intensive,6574,6609,2016,Lampung,-2.386614,97.980587,41.7,55,None
+129,Peternakan_EY,Medium Scale,Organic,7405,5342,2003,DI Yogyakarta,4.133481,136.856309,41.31,77,None
+130,Peternakan_EZ,Medium Scale,Organic,3509,6594,2015,Jawa Barat,-7.445311,117.625074,35.89,12,ISO
+131,Peternakan_FA,Industrial,Free Range,8926,4177,2017,Lampung,-6.570784,134.121726,6.57,20,ISO
+132,Peternakan_FB,Medium Scale,Semi-Intensive,2707,2296,1999,Lampung,-6.975185,122.957247,1.54,21,None
+133,Peternakan_FC,Medium Scale,Extensive,7813,882,2012,Kalimantan Selatan,-5.076389,102.602381,40.25,67,ISO
+134,Peternakan_FD,Large Scale,Semi-Intensive,7544,785,2011,Sumatera Utara,0.672134,123.37002,7.38,28,ISO
+135,Peternakan_FE,Small Scale,Organic,4042,483,2010,Jawa Timur,-6.274692,120.750249,23.9,6,Halal
+136,Peternakan_FF,Medium Scale,Intensive,635,3743,1998,Sumatera Utara,0.301628,110.668168,10.5,83,Multiple
+137,Peternakan_FG,Industrial,Free Range,6841,2557,1995,DI Yogyakarta,0.296839,112.228701,9.93,41,Organic
+138,Peternakan_FH,Industrial,Free Range,3227,1136,2008,Sulawesi Selatan,-0.757491,122.969336,4.94,74,Halal
+139,Peternakan_FI,Small Scale,Intensive,9137,7825,2016,DI Yogyakarta,1.519323,109.436935,46.99,1,ISO
+140,Peternakan_FJ,Small Scale,Free Range,9142,2756,2002,Lampung,4.603496,123.414179,31.66,64,None
+141,Peternakan_FK,Medium Scale,Free Range,5176,1224,1998,Bali,-7.069309,109.924419,24.6,23,None
+142,Peternakan_FL,Medium Scale,Organic,335,6165,1995,Kalimantan Selatan,-0.053358,113.052225,15.9,47,Organic
+143,Peternakan_FM,Backyard,Extensive,5513,1702,2008,Bali,-6.751589,129.803964,10.23,16,Halal
+144,Peternakan_FN,Backyard,Extensive,6183,5004,2005,Lampung,-3.424761,132.436553,9.87,69,None
+145,Peternakan_FO,Backyard,Free Range,5816,1958,2018,Kalimantan Selatan,5.952506,138.020158,18.88,81,Organic
+146,Peternakan_FP,Industrial,Intensive,6887,1862,2006,Jawa Timur,-5.46523,102.267378,28.17,45,ISO
+147,Peternakan_FQ,Small Scale,Semi-Intensive,8858,2983,2005,Sumatera Utara,-7.176364,105.349962,45.99,99,ISO
+148,Peternakan_FR,Large Scale,Extensive,3420,2740,2002,Banten,2.60692,122.390532,18.54,17,Organic
+149,Peternakan_FS,Medium Scale,Organic,7721,4935,1996,Jawa Tengah,-4.858767,109.384585,26.92,4,Organic
+150,Peternakan_FT,Large Scale,Extensive,6760,6839,2003,Jawa Tengah,-6.50911,110.253648,15.68,24,Multiple
+151,Peternakan_FU,Backyard,Extensive,7870,321,2018,DI Yogyakarta,2.98798,110.034705,42.84,73,None
+152,Peternakan_FV,Large Scale,Extensive,1301,4837,2001,Jawa Timur,-0.101273,122.639002,3.99,74,Multiple
+153,Peternakan_FW,Industrial,Organic,6973,754,2016,Banten,-7.990251,131.272609,42.61,85,ISO
+154,Peternakan_FX,Medium Scale,Intensive,7512,397,1999,DI Yogyakarta,5.110795,118.9472,10.39,54,Organic
+155,Peternakan_FY,Large Scale,Free Range,929,6398,2023,Jawa Tengah,-6.237051,139.011697,44.61,33,ISO
+156,Peternakan_FZ,Medium Scale,Free Range,345,5116,2017,Jawa Barat,-6.073128,105.323751,3.15,56,Organic
+157,Peternakan_GA,Medium Scale,Organic,9451,4863,2019,Lampung,-6.942195,122.454217,17.61,69,ISO
+158,Peternakan_GB,Industrial,Extensive,4914,3280,2002,Banten,-2.403233,110.346512,48.24,41,Multiple
+159,Peternakan_GC,Large Scale,Organic,5456,5505,2013,Sumatera Utara,5.029484,111.108154,8.98,79,ISO
+160,Peternakan_GD,Industrial,Semi-Intensive,1232,1523,1995,Kalimantan Selatan,-2.823012,129.217826,42.71,47,Multiple
+161,Peternakan_GE,Medium Scale,Extensive,2690,7030,2004,Sumatera Utara,-0.393719,133.668945,6.84,75,None
+162,Peternakan_GF,Medium Scale,Semi-Intensive,9882,7277,2002,Jawa Barat,-2.566505,114.797364,47.43,68,None
+163,Peternakan_GG,Industrial,Organic,6602,1365,2019,Jawa Barat,0.192614,128.48706,3.63,96,None
+164,Peternakan_GH,Small Scale,Semi-Intensive,5575,6943,2018,Jawa Timur,-4.437019,122.453974,48.73,86,None
+165,Peternakan_GI,Large Scale,Extensive,3249,2500,1998,Lampung,-1.597844,119.424582,5.89,75,Multiple
+166,Peternakan_GJ,Medium Scale,Extensive,3509,3050,2007,Jawa Barat,-4.28437,109.875874,10.88,37,ISO
+167,Peternakan_GK,Backyard,Intensive,372,5494,2012,Sumatera Utara,2.920854,112.112971,7.32,41,Organic
+168,Peternakan_GL,Small Scale,Extensive,4194,6807,2015,Lampung,0.430154,133.328609,6.73,88,None
+169,Peternakan_GM,Backyard,Semi-Intensive,9419,5399,2001,Kalimantan Selatan,3.579609,99.454247,38.33,5,Multiple
+170,Peternakan_GN,Medium Scale,Organic,2909,1824,2003,Kalimantan Selatan,-4.410343,119.352197,15.48,73,None
+171,Peternakan_GO,Backyard,Extensive,5841,6378,2017,Sulawesi Selatan,-7.087793,122.65329,44.6,25,Halal
+172,Peternakan_GP,Small Scale,Extensive,2127,6385,2008,Sulawesi Selatan,-2.66427,125.809911,47.72,93,Halal
+173,Peternakan_GQ,Small Scale,Organic,2004,4100,2018,Bali,5.038756,125.968687,13.3,2,Organic
+174,Peternakan_GR,Small Scale,Free Range,4374,889,2017,Lampung,3.245098,109.609035,5.75,73,Multiple
+175,Peternakan_GS,Industrial,Organic,6139,7473,2006,Kalimantan Selatan,3.381754,134.371665,41.89,12,ISO
+176,Peternakan_GT,Small Scale,Free Range,5580,2717,1996,Jawa Barat,-7.681358,125.286789,24.08,26,ISO
+177,Peternakan_GU,Large Scale,Free Range,3578,4360,2019,Jawa Barat,-1.414794,127.391314,3.37,8,Organic
+178,Peternakan_GV,Industrial,Organic,8793,3174,2014,Kalimantan Selatan,-2.004685,140.048894,26.98,44,Halal
+179,Peternakan_GW,Medium Scale,Organic,1008,6727,2018,Jawa Tengah,0.315371,109.238212,23.5,53,Halal
+180,Peternakan_GX,Backyard,Organic,609,4792,1996,Jawa Tengah,4.514279,111.266992,23.69,58,ISO
+181,Peternakan_GY,Medium Scale,Intensive,5646,2236,2020,Lampung,2.983809,134.296127,27.12,7,Halal
+182,Peternakan_GZ,Industrial,Organic,6240,866,2023,Jawa Timur,-2.827763,98.791211,44.72,44,None
+183,Peternakan_HA,Medium Scale,Free Range,7580,583,2014,Sulawesi Selatan,5.453551,104.893072,16.1,40,Halal
+184,Peternakan_HB,Medium Scale,Organic,2701,620,2001,Bali,-1.332216,111.490184,46.87,73,Halal
+185,Peternakan_HC,Large Scale,Organic,4146,2419,1998,Jawa Timur,0.740735,104.732038,22.36,77,Organic
+186,Peternakan_HD,Small Scale,Semi-Intensive,7336,4641,2019,Jawa Barat,-5.936843,126.060759,14.07,88,Halal
+187,Peternakan_HE,Medium Scale,Intensive,3351,4128,2007,Banten,5.394429,115.881954,12.99,64,Multiple
+188,Peternakan_HF,Industrial,Semi-Intensive,1464,4481,2000,Kalimantan Selatan,0.605211,113.890731,21.21,12,Halal
+189,Peternakan_HG,Industrial,Intensive,5416,3491,2002,Lampung,-5.631981,132.050773,16.78,70,Multiple
+190,Peternakan_HH,Small Scale,Organic,1062,6304,2007,Jawa Timur,-0.731621,120.28436,42.03,14,None
+191,Peternakan_HI,Medium Scale,Extensive,1306,7448,2013,Sumatera Utara,-3.40053,126.606484,23.6,88,Multiple
+192,Peternakan_HJ,Backyard,Intensive,8617,145,2010,Sulawesi Selatan,-6.121014,135.852113,46.28,55,Organic
+193,Peternakan_HK,Large Scale,Organic,8089,4083,2005,Jawa Timur,2.988183,131.018329,25.43,91,Halal
+194,Peternakan_HL,Medium Scale,Organic,3553,4012,2021,Bali,3.775186,96.73886,18.65,72,ISO
+195,Peternakan_HM,Industrial,Organic,238,304,2013,Sulawesi Selatan,-0.044205,121.363987,8.55,20,Halal
+196,Peternakan_HN,Industrial,Extensive,8670,81,2018,Sulawesi Selatan,-6.538657,137.988342,18.02,61,ISO
+197,Peternakan_HO,Industrial,Semi-Intensive,1732,407,1996,Sulawesi Selatan,-5.284448,135.775043,6.01,92,Organic
+198,Peternakan_HP,Backyard,Intensive,3171,1001,2017,Sumatera Utara,-6.489544,134.758743,26.35,12,Halal
+199,Peternakan_HQ,Large Scale,Free Range,8169,1183,1998,Jawa Timur,-6.059332,130.389995,12.33,40,None
+200,Peternakan_HR,Backyard,Extensive,7955,4943,2001,Sulawesi Selatan,-2.669271,102.870541,32.2,8,None

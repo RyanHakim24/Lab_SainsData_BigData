@@ -1,0 +1,9 @@
+feed_id,feed_name,protein_percent,energy_kcal_kg,price_per_kg,age_group
+1,Starter Feed,22,3000,8500,0-4 weeks
+2,Grower Feed,19,3100,8000,4-8 weeks
+3,Finisher Feed,16,3200,7500,8+ weeks
+4,Layer Feed,17,2800,7800,Adult Layer
+5,Breeder Feed,18,2900,9000,Breeding
+6,Organic Feed,20,2950,12000,All Ages
+7,Kampung Feed,15,2700,6500,Traditional
+8,Premium Feed,24,3300,11000,High Performance

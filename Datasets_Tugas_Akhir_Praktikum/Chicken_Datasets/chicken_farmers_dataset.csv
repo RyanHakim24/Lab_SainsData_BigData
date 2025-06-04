@@ -1,0 +1,101 @@
+farmer_id,farmer_name,age,gender,education_level,experience_years,phone_number,address,province,total_farms_owned,specialization
+1,Peternak_001,45,Male,SMP,33,0847800467118,Jl. Peternakan No.485,Jawa Tengah,2,Broiler
+2,Peternak_002,68,Male,S1,2,0829676409297,Jl. Peternakan No.895,Jawa Barat,2,Broiler
+3,Peternak_003,55,Male,SMP,26,0889227633101,Jl. Peternakan No.961,Jawa Barat,4,Organic
+4,Peternak_004,56,Male,D3,39,0829490726788,Jl. Peternakan No.690,Sumatera Utara,5,Broiler
+5,Peternak_005,64,Male,SMA,25,0863047565346,Jl. Peternakan No.578,Kalimantan Selatan,2,Layer
+6,Peternak_006,70,Female,S2,7,0833842868494,Jl. Peternakan No.96,Kalimantan Selatan,1,Organic
+7,Peternak_007,66,Male,S1,12,0878614485586,Jl. Peternakan No.218,Banten,2,Mixed
+8,Peternak_008,45,Female,SMP,1,0877052397105,Jl. Peternakan No.723,Jawa Timur,2,Layer
+9,Peternak_009,38,Male,S2,34,0817624966085,Jl. Peternakan No.434,Sulawesi Selatan,3,Layer
+10,Peternak_010,66,Female,SD,6,0810989028182,Jl. Peternakan No.892,Bali,2,Broiler
+11,Peternak_011,29,Male,S1,12,0882504756896,Jl. Peternakan No.924,Sumatera Utara,4,Broiler
+12,Peternak_012,59,Female,SD,8,0878159024645,Jl. Peternakan No.473,Sulawesi Selatan,5,Layer
+13,Peternak_013,36,Male,D3,39,0811585150114,Jl. Peternakan No.820,Sumatera Utara,3,Breeding
+14,Peternak_014,25,Male,SMP,10,0886292734876,Jl. Peternakan No.87,Sumatera Utara,4,Organic
+15,Peternak_015,67,Female,SMA,33,0862327225816,Jl. Peternakan No.337,Kalimantan Selatan,3,Mixed
+16,Peternak_016,66,Male,SD,20,0889377266313,Jl. Peternakan No.711,DI Yogyakarta,2,Broiler
+17,Peternak_017,49,Female,SMP,12,0828687939039,Jl. Peternakan No.346,Sulawesi Selatan,2,Organic
+18,Peternak_018,57,Male,S2,24,0863245733869,Jl. Peternakan No.399,Lampung,4,Mixed
+19,Peternak_019,32,Female,SMP,24,0838703457647,Jl. Peternakan No.778,Jawa Barat,2,Breeding
+20,Peternak_020,63,Male,S2,45,0896987976966,Jl. Peternakan No.143,Banten,2,Breeding
+21,Peternak_021,33,Male,SD,41,0828242567465,Jl. Peternakan No.61,Lampung,5,Layer
+22,Peternak_022,25,Male,SD,35,0895172988437,Jl. Peternakan No.168,Lampung,1,Layer
+23,Peternak_023,35,Male,D3,44,0882531772580,Jl. Peternakan No.406,Sumatera Utara,4,Organic
+24,Peternak_024,42,Female,SMP,4,0813165194042,Jl. Peternakan No.968,DI Yogyakarta,4,Organic
+25,Peternak_025,57,Female,S1,27,0835417938459,Jl. Peternakan No.228,Lampung,1,Breeding
+26,Peternak_026,64,Male,S2,5,0854196097817,Jl. Peternakan No.357,Jawa Tengah,3,Layer
+27,Peternak_027,51,Male,SMP,27,0889328481951,Jl. Peternakan No.455,Sumatera Utara,1,Organic
+28,Peternak_028,62,Female,SMA,18,0850983498383,Jl. Peternakan No.386,Sulawesi Selatan,5,Broiler
+29,Peternak_029,28,Male,S1,5,0890139192406,Jl. Peternakan No.151,Bali,5,Broiler
+30,Peternak_030,69,Male,SMA,39,0831433842619,Jl. Peternakan No.387,Sumatera Utara,4,Layer
+31,Peternak_031,48,Male,SMP,23,0860951200361,Jl. Peternakan No.443,Jawa Tengah,3,Broiler
+32,Peternak_032,51,Male,S2,43,0823423918506,Jl. Peternakan No.546,Sumatera Utara,4,Breeding
+33,Peternak_033,36,Male,SD,44,0851722597069,Jl. Peternakan No.598,DI Yogyakarta,5,Mixed
+34,Peternak_034,60,Female,D3,32,0887518268541,Jl. Peternakan No.845,DI Yogyakarta,5,Broiler
+35,Peternak_035,34,Male,SMA,23,0830653262619,Jl. Peternakan No.70,Banten,4,Broiler
+36,Peternak_036,38,Male,D3,36,0899369679756,Jl. Peternakan No.770,Kalimantan Selatan,1,Layer
+37,Peternak_037,39,Female,S1,14,0894918100697,Jl. Peternakan No.396,Banten,5,Broiler
+38,Peternak_038,41,Female,S2,16,0857683591946,Jl. Peternakan No.495,Lampung,3,Broiler
+39,Peternak_039,70,Male,S1,6,0825824146970,Jl. Peternakan No.155,Jawa Barat,3,Mixed
+40,Peternak_040,51,Male,D3,24,0844711359963,Jl. Peternakan No.891,Banten,3,Organic
+41,Peternak_041,49,Female,S2,11,0887675989916,Jl. Peternakan No.659,Banten,5,Broiler
+42,Peternak_042,35,Male,D3,26,0819157420077,Jl. Peternakan No.421,Lampung,4,Broiler
+43,Peternak_043,29,Male,SD,36,0814093849816,Jl. Peternakan No.248,Jawa Barat,4,Mixed
+44,Peternak_044,30,Female,SD,35,0858738144407,Jl. Peternakan No.650,Lampung,1,Organic
+45,Peternak_045,62,Male,SMA,30,0830489053441,Jl. Peternakan No.455,Kalimantan Selatan,1,Mixed
+46,Peternak_046,43,Female,SD,37,0859833899995,Jl. Peternakan No.202,Sumatera Utara,4,Layer
+47,Peternak_047,53,Male,SMA,31,0891744792145,Jl. Peternakan No.509,Sumatera Utara,4,Broiler
+48,Peternak_048,26,Female,SMA,6,0881291633401,Jl. Peternakan No.862,Jawa Timur,5,Layer
+49,Peternak_049,47,Female,SMP,24,0849138165762,Jl. Peternakan No.884,Jawa Tengah,5,Broiler
+50,Peternak_050,42,Female,SMP,29,0847918444203,Jl. Peternakan No.376,Jawa Tengah,4,Organic
+51,Peternak_051,32,Female,S1,23,0873503774819,Jl. Peternakan No.744,Jawa Barat,3,Broiler
+52,Peternak_052,54,Male,SD,8,0844800733599,Jl. Peternakan No.946,DI Yogyakarta,3,Broiler
+53,Peternak_053,42,Female,D3,22,0877581163025,Jl. Peternakan No.25,Banten,2,Broiler
+54,Peternak_054,68,Female,SMA,24,0860108793984,Jl. Peternakan No.873,Sumatera Utara,5,Mixed
+55,Peternak_055,26,Male,SMP,34,0823175378375,Jl. Peternakan No.451,Sulawesi Selatan,2,Breeding
+56,Peternak_056,29,Male,S2,28,0889837608895,Jl. Peternakan No.234,Sulawesi Selatan,5,Breeding
+57,Peternak_057,52,Male,SMP,42,0833688230682,Jl. Peternakan No.200,Sumatera Utara,1,Organic
+58,Peternak_058,68,Female,SMA,3,0822310607868,Jl. Peternakan No.28,Lampung,5,Mixed
+59,Peternak_059,41,Male,D3,13,0850061976157,Jl. Peternakan No.791,Sulawesi Selatan,5,Layer
+60,Peternak_060,55,Female,SD,41,0813331534498,Jl. Peternakan No.429,Bali,3,Layer
+61,Peternak_061,37,Male,SMP,20,0838423444079,Jl. Peternakan No.614,Jawa Timur,5,Broiler
+62,Peternak_062,38,Female,SMA,2,0820407583807,Jl. Peternakan No.612,Banten,4,Broiler
+63,Peternak_063,41,Female,D3,8,0886405062686,Jl. Peternakan No.520,Jawa Timur,5,Layer
+64,Peternak_064,54,Male,D3,33,0821077384670,Jl. Peternakan No.176,Jawa Timur,4,Breeding
+65,Peternak_065,36,Female,SD,22,0842060634329,Jl. Peternakan No.847,Jawa Tengah,5,Mixed
+66,Peternak_066,29,Male,SMP,2,0828429279167,Jl. Peternakan No.773,DI Yogyakarta,3,Breeding
+67,Peternak_067,26,Male,S1,25,0875082430195,Jl. Peternakan No.351,Jawa Tengah,3,Organic
+68,Peternak_068,47,Male,SMP,19,0814560402633,Jl. Peternakan No.608,Bali,2,Breeding
+69,Peternak_069,68,Female,S1,8,0849910277986,Jl. Peternakan No.561,Kalimantan Selatan,3,Broiler
+70,Peternak_070,69,Male,SMA,34,0828670791699,Jl. Peternakan No.769,Jawa Barat,2,Breeding
+71,Peternak_071,54,Male,SD,26,0810906278759,Jl. Peternakan No.587,Sumatera Utara,5,Mixed
+72,Peternak_072,26,Male,S1,5,0875869489763,Jl. Peternakan No.598,Jawa Tengah,3,Organic
+73,Peternak_073,54,Female,SMP,19,0817567141695,Jl. Peternakan No.747,DI Yogyakarta,4,Breeding
+74,Peternak_074,27,Female,SD,39,0845549012806,Jl. Peternakan No.911,Sulawesi Selatan,3,Layer
+75,Peternak_075,70,Male,SD,39,0891325944812,Jl. Peternakan No.287,Banten,1,Layer
+76,Peternak_076,51,Female,S2,32,0820528430233,Jl. Peternakan No.796,Lampung,2,Organic
+77,Peternak_077,47,Male,SMA,16,0865776071842,Jl. Peternakan No.498,Lampung,4,Broiler
+78,Peternak_078,67,Female,S2,31,0864734202190,Jl. Peternakan No.299,DI Yogyakarta,2,Layer
+79,Peternak_079,56,Female,S1,42,0844417115080,Jl. Peternakan No.112,Sumatera Utara,5,Breeding
+80,Peternak_080,30,Male,D3,14,0832710947065,Jl. Peternakan No.389,Jawa Timur,4,Layer
+81,Peternak_081,69,Male,SMA,13,0899716584218,Jl. Peternakan No.392,Bali,4,Organic
+82,Peternak_082,48,Male,D3,43,0869757734531,Jl. Peternakan No.816,DI Yogyakarta,2,Layer
+83,Peternak_083,37,Female,SD,42,0870405581316,Jl. Peternakan No.521,Kalimantan Selatan,5,Mixed
+84,Peternak_084,70,Male,SD,33,0867283598258,Jl. Peternakan No.58,Lampung,5,Organic
+85,Peternak_085,41,Male,SMA,38,0890586301944,Jl. Peternakan No.321,Jawa Timur,2,Breeding
+86,Peternak_086,56,Female,SMA,12,0881283051029,Jl. Peternakan No.787,Sumatera Utara,4,Broiler
+87,Peternak_087,48,Female,S2,28,0822149336246,Jl. Peternakan No.34,Sulawesi Selatan,2,Broiler
+88,Peternak_088,34,Female,S1,18,0875547603038,Jl. Peternakan No.611,Jawa Tengah,4,Broiler
+89,Peternak_089,58,Male,S1,2,0849376676031,Jl. Peternakan No.723,Sulawesi Selatan,2,Broiler
+90,Peternak_090,28,Male,S1,14,0851405270917,Jl. Peternakan No.903,DI Yogyakarta,3,Mixed
+91,Peternak_091,67,Male,S1,15,0816742392057,Jl. Peternakan No.853,Jawa Timur,3,Mixed
+92,Peternak_092,60,Male,SMP,25,0866109822740,Jl. Peternakan No.801,Lampung,5,Broiler
+93,Peternak_093,60,Female,SMP,40,0822664406002,Jl. Peternakan No.434,Jawa Timur,1,Breeding
+94,Peternak_094,56,Male,SD,15,0858970524000,Jl. Peternakan No.636,Sulawesi Selatan,1,Mixed
+95,Peternak_095,25,Female,D3,44,0859016013257,Jl. Peternakan No.17,Bali,5,Organic
+96,Peternak_096,53,Female,S1,42,0839025938973,Jl. Peternakan No.402,Bali,1,Organic
+97,Peternak_097,69,Female,SMA,1,0829029061237,Jl. Peternakan No.45,Bali,3,Organic
+98,Peternak_098,25,Male,D3,21,0833273429429,Jl. Peternakan No.680,Kalimantan Selatan,4,Breeding
+99,Peternak_099,48,Female,S2,30,0860120308477,Jl. Peternakan No.521,Lampung,4,Layer
+100,Peternak_100,55,Male,S1,6,0835089041166,Jl. Peternakan No.478,Jawa Barat,3,Organic

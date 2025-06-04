@@ -1,0 +1,16 @@
+breed_id,breed_name,origin_country,avg_weight_kg,primary_purpose,maturity_days,avg_price_per_kg
+1,Broiler,USA,2.5,Meat,42,35000
+2,Layer,USA,1.8,Egg,150,45000
+3,Rhode Island Red,USA,3.2,Dual Purpose,180,55000
+4,Leghorn,Italy,2.0,Egg,140,48000
+5,Plymouth Rock,USA,3.5,Dual Purpose,200,60000
+6,Wyandotte,USA,3.0,Dual Purpose,190,58000
+7,Orpington,England,4.0,Meat,220,70000
+8,Sussex,England,3.2,Dual Purpose,210,62000
+9,Brahma,India,4.5,Meat,240,85000
+10,Cochins,China,4.2,Ornamental,230,120000
+11,Kampung,Indonesia,1.5,Dual Purpose,180,40000
+12,Peking,China,2.8,Meat,160,65000
+13,Kate,Indonesia,2.2,Dual Purpose,170,50000
+14,Bangkok,Thailand,2.5,Fighting,365,200000
+15,Cemani,Indonesia,2.0,Ornamental,200,500000
