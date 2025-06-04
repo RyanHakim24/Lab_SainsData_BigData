@@ -1,0 +1,6 @@
+category_id,category_name,habitat,avg_price_per_kg
+1,Pelagic Fish,Open Ocean,85000
+2,Demersal Fish,Sea Bottom,120000
+3,Reef Fish,Coral Reef,150000
+4,Freshwater Fish,Rivers/Lakes,45000
+5,Anadromous Fish,Sea/Freshwater,200000

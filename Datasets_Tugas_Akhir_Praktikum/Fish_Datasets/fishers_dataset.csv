@@ -1,0 +1,501 @@
+fisher_id,fisher_name,experience_years,boat_type,boat_capacity_kg,home_port,license_number
+1,Nelayan_001,26,Motor Boat,3359,Lampung,LIC901799
+2,Nelayan_002,33,Traditional Boat,860,Jawa Timur,LIC612729
+3,Nelayan_003,3,Traditional Boat,932,Sumatera Utara,LIC650826
+4,Nelayan_004,29,Motor Boat,2303,Papua,LIC942039
+5,Nelayan_005,36,Trawler,2438,Sulawesi Selatan,LIC488256
+6,Nelayan_006,25,Motor Boat,173,Lampung,LIC235987
+7,Nelayan_007,27,Fishing Vessel,1817,Jawa Barat,LIC422351
+8,Nelayan_008,28,Traditional Boat,4884,Sumatera Utara,LIC126817
+9,Nelayan_009,20,Fishing Vessel,4018,Papua,LIC922971
+10,Nelayan_010,11,Traditional Boat,4111,Lampung,LIC321920
+11,Nelayan_011,17,Fishing Vessel,1019,Sulawesi Selatan,LIC150256
+12,Nelayan_012,1,Traditional Boat,4736,Jawa Barat,LIC521528
+13,Nelayan_013,6,Trawler,922,Kalimantan Selatan,LIC269930
+14,Nelayan_014,5,Fishing Vessel,2879,Sulawesi Selatan,LIC981225
+15,Nelayan_015,12,Traditional Boat,643,Sulawesi Selatan,LIC617594
+16,Nelayan_016,22,Trawler,2700,Lampung,LIC213867
+17,Nelayan_017,12,Trawler,2215,Bali,LIC230173
+18,Nelayan_018,1,Motor Boat,1542,Maluku,LIC925630
+19,Nelayan_019,24,Fishing Vessel,644,Sulawesi Selatan,LIC428668
+20,Nelayan_020,13,Trawler,3091,Maluku,LIC217166
+21,Nelayan_021,28,Motor Boat,1232,Jawa Tengah,LIC776555
+22,Nelayan_022,36,Fishing Vessel,1043,Jawa Tengah,LIC647879
+23,Nelayan_023,2,Traditional Boat,1887,Papua,LIC949399
+24,Nelayan_024,1,Trawler,1277,Papua,LIC539503
+25,Nelayan_025,17,Motor Boat,1689,Papua,LIC497177
+26,Nelayan_026,5,Traditional Boat,3861,Papua,LIC703126
+27,Nelayan_027,10,Traditional Boat,1711,Jawa Timur,LIC194561
+28,Nelayan_028,2,Fishing Vessel,1324,Sumatera Utara,LIC341165
+29,Nelayan_029,28,Trawler,1971,Jawa Tengah,LIC294395
+30,Nelayan_030,34,Motor Boat,1415,Maluku,LIC538009
+31,Nelayan_031,4,Traditional Boat,3090,Papua,LIC422228
+32,Nelayan_032,37,Trawler,4532,Sumatera Utara,LIC189487
+33,Nelayan_033,6,Traditional Boat,1158,Jawa Tengah,LIC346082
+34,Nelayan_034,1,Fishing Vessel,986,Kalimantan Selatan,LIC745831
+35,Nelayan_035,29,Motor Boat,1466,Maluku,LIC319964
+36,Nelayan_036,8,Fishing Vessel,2182,Sumatera Utara,LIC701417
+37,Nelayan_037,33,Traditional Boat,1605,Papua,LIC425507
+38,Nelayan_038,32,Motor Boat,3109,Jawa Barat,LIC884478
+39,Nelayan_039,12,Traditional Boat,4147,Sulawesi Selatan,LIC698602
+40,Nelayan_040,39,Trawler,3686,Sulawesi Selatan,LIC604529
+41,Nelayan_041,9,Fishing Vessel,1005,Bali,LIC810221
+42,Nelayan_042,18,Fishing Vessel,682,Maluku,LIC764902
+43,Nelayan_043,17,Traditional Boat,617,Lampung,LIC167113
+44,Nelayan_044,3,Traditional Boat,1498,Papua,LIC450637
+45,Nelayan_045,40,Trawler,3288,Papua,LIC960661
+46,Nelayan_046,1,Traditional Boat,3046,Jawa Barat,LIC660461
+47,Nelayan_047,33,Motor Boat,4953,Sulawesi Selatan,LIC107258
+48,Nelayan_048,20,Motor Boat,3826,Maluku,LIC628308
+49,Nelayan_049,16,Motor Boat,4262,Maluku,LIC552308
+50,Nelayan_050,31,Trawler,641,Maluku,LIC492543
+51,Nelayan_051,5,Fishing Vessel,117,Maluku,LIC454344
+52,Nelayan_052,35,Trawler,2922,Lampung,LIC112138
+53,Nelayan_053,1,Traditional Boat,876,Jawa Tengah,LIC238026
+54,Nelayan_054,39,Traditional Boat,3885,Sulawesi Selatan,LIC973716
+55,Nelayan_055,17,Traditional Boat,343,Papua,LIC270369
+56,Nelayan_056,37,Motor Boat,681,Lampung,LIC141150
+57,Nelayan_057,35,Traditional Boat,3254,Sumatera Utara,LIC678664
+58,Nelayan_058,19,Motor Boat,2495,Lampung,LIC174926
+59,Nelayan_059,27,Traditional Boat,3657,Kalimantan Selatan,LIC925573
+60,Nelayan_060,33,Traditional Boat,1094,Jawa Tengah,LIC327037
+61,Nelayan_061,6,Fishing Vessel,963,Maluku,LIC709967
+62,Nelayan_062,2,Motor Boat,186,Sumatera Utara,LIC319988
+63,Nelayan_063,17,Trawler,639,Bali,LIC727251
+64,Nelayan_064,27,Motor Boat,4565,Sulawesi Selatan,LIC767661
+65,Nelayan_065,38,Traditional Boat,3720,Lampung,LIC178276
+66,Nelayan_066,18,Trawler,2159,Jawa Tengah,LIC148476
+67,Nelayan_067,21,Traditional Boat,3362,Kalimantan Selatan,LIC700508
+68,Nelayan_068,7,Motor Boat,549,Bali,LIC243626
+69,Nelayan_069,2,Motor Boat,1852,Kalimantan Selatan,LIC886940
+70,Nelayan_070,10,Fishing Vessel,1486,Bali,LIC135901
+71,Nelayan_071,2,Traditional Boat,2910,Lampung,LIC770901
+72,Nelayan_072,21,Traditional Boat,3022,Jawa Tengah,LIC487702
+73,Nelayan_073,14,Trawler,2543,Jawa Tengah,LIC853321
+74,Nelayan_074,9,Traditional Boat,694,Maluku,LIC191627
+75,Nelayan_075,2,Traditional Boat,2758,Maluku,LIC539666
+76,Nelayan_076,24,Motor Boat,3601,Lampung,LIC132980
+77,Nelayan_077,4,Motor Boat,1716,Sumatera Utara,LIC110679
+78,Nelayan_078,25,Motor Boat,3772,Kalimantan Selatan,LIC986207
+79,Nelayan_079,3,Traditional Boat,865,Sumatera Utara,LIC582713
+80,Nelayan_080,17,Fishing Vessel,3431,Sumatera Utara,LIC298989
+81,Nelayan_081,36,Traditional Boat,744,Sulawesi Selatan,LIC262517
+82,Nelayan_082,5,Trawler,284,Lampung,LIC241040
+83,Nelayan_083,8,Fishing Vessel,3939,Sumatera Utara,LIC850569
+84,Nelayan_084,36,Traditional Boat,1446,Papua,LIC829632
+85,Nelayan_085,10,Fishing Vessel,3013,Jawa Timur,LIC122506
+86,Nelayan_086,28,Fishing Vessel,128,Maluku,LIC721311
+87,Nelayan_087,29,Fishing Vessel,4858,Lampung,LIC503715
+88,Nelayan_088,18,Fishing Vessel,3909,Maluku,LIC861870
+89,Nelayan_089,37,Motor Boat,4145,Jawa Barat,LIC311284
+90,Nelayan_090,8,Traditional Boat,1221,Bali,LIC408200
+91,Nelayan_091,37,Trawler,3230,Kalimantan Selatan,LIC603576
+92,Nelayan_092,37,Fishing Vessel,547,Lampung,LIC905468
+93,Nelayan_093,28,Trawler,1016,Sulawesi Selatan,LIC197935
+94,Nelayan_094,27,Fishing Vessel,1971,Jawa Tengah,LIC201481
+95,Nelayan_095,29,Traditional Boat,2643,Papua,LIC468548
+96,Nelayan_096,38,Trawler,372,Sulawesi Selatan,LIC657301
+97,Nelayan_097,31,Trawler,1063,Papua,LIC778356
+98,Nelayan_098,27,Motor Boat,1568,Bali,LIC834680
+99,Nelayan_099,37,Traditional Boat,4992,Kalimantan Selatan,LIC161512
+100,Nelayan_100,14,Motor Boat,571,Kalimantan Selatan,LIC666042
+101,Nelayan_101,14,Motor Boat,2073,Maluku,LIC818801
+102,Nelayan_102,9,Trawler,3585,Bali,LIC353659
+103,Nelayan_103,15,Traditional Boat,312,Bali,LIC280250
+104,Nelayan_104,21,Fishing Vessel,363,Papua,LIC962685
+105,Nelayan_105,17,Trawler,1177,Maluku,LIC327696
+106,Nelayan_106,31,Trawler,3802,Bali,LIC679639
+107,Nelayan_107,25,Trawler,1792,Sumatera Utara,LIC846040
+108,Nelayan_108,21,Traditional Boat,2868,Lampung,LIC838594
+109,Nelayan_109,23,Fishing Vessel,573,Jawa Tengah,LIC206586
+110,Nelayan_110,33,Trawler,2506,Bali,LIC733418
+111,Nelayan_111,2,Motor Boat,3104,Jawa Timur,LIC398006
+112,Nelayan_112,14,Fishing Vessel,695,Lampung,LIC290759
+113,Nelayan_113,35,Traditional Boat,1437,Lampung,LIC627354
+114,Nelayan_114,35,Fishing Vessel,3517,Jawa Tengah,LIC359811
+115,Nelayan_115,11,Traditional Boat,1275,Lampung,LIC521421
+116,Nelayan_116,37,Trawler,1873,Jawa Timur,LIC839187
+117,Nelayan_117,24,Trawler,771,Lampung,LIC969745
+118,Nelayan_118,30,Traditional Boat,4777,Papua,LIC381500
+119,Nelayan_119,30,Fishing Vessel,3271,Jawa Barat,LIC446706
+120,Nelayan_120,38,Traditional Boat,3435,Maluku,LIC260326
+121,Nelayan_121,12,Motor Boat,1877,Papua,LIC280026
+122,Nelayan_122,32,Trawler,4112,Kalimantan Selatan,LIC473179
+123,Nelayan_123,24,Fishing Vessel,4457,Lampung,LIC241579
+124,Nelayan_124,5,Traditional Boat,2738,Papua,LIC599633
+125,Nelayan_125,5,Traditional Boat,2481,Lampung,LIC794455
+126,Nelayan_126,21,Trawler,4512,Maluku,LIC625589
+127,Nelayan_127,14,Traditional Boat,1238,Kalimantan Selatan,LIC836023
+128,Nelayan_128,32,Fishing Vessel,244,Kalimantan Selatan,LIC479544
+129,Nelayan_129,17,Fishing Vessel,197,Jawa Tengah,LIC541971
+130,Nelayan_130,6,Trawler,3062,Jawa Timur,LIC393027
+131,Nelayan_131,27,Trawler,4219,Maluku,LIC756491
+132,Nelayan_132,3,Traditional Boat,3406,Sulawesi Selatan,LIC811362
+133,Nelayan_133,27,Trawler,4793,Maluku,LIC613414
+134,Nelayan_134,36,Traditional Boat,1090,Papua,LIC575722
+135,Nelayan_135,22,Trawler,1798,Lampung,LIC674520
+136,Nelayan_136,2,Motor Boat,560,Papua,LIC525382
+137,Nelayan_137,37,Traditional Boat,2635,Sumatera Utara,LIC454639
+138,Nelayan_138,16,Trawler,3962,Jawa Tengah,LIC513224
+139,Nelayan_139,20,Traditional Boat,3610,Jawa Timur,LIC504129
+140,Nelayan_140,13,Trawler,3358,Bali,LIC181402
+141,Nelayan_141,40,Traditional Boat,2430,Sulawesi Selatan,LIC502393
+142,Nelayan_142,32,Trawler,3279,Jawa Timur,LIC694906
+143,Nelayan_143,18,Trawler,1122,Jawa Timur,LIC111532
+144,Nelayan_144,10,Motor Boat,3465,Sumatera Utara,LIC411388
+145,Nelayan_145,5,Motor Boat,2414,Sulawesi Selatan,LIC261256
+146,Nelayan_146,5,Motor Boat,697,Papua,LIC705374
+147,Nelayan_147,3,Traditional Boat,1231,Jawa Barat,LIC992780
+148,Nelayan_148,35,Motor Boat,554,Bali,LIC487641
+149,Nelayan_149,3,Trawler,2241,Bali,LIC101603
+150,Nelayan_150,13,Motor Boat,319,Lampung,LIC193927
+151,Nelayan_151,35,Traditional Boat,699,Sumatera Utara,LIC814209
+152,Nelayan_152,17,Fishing Vessel,835,Jawa Timur,LIC321548
+153,Nelayan_153,37,Trawler,845,Kalimantan Selatan,LIC364566
+154,Nelayan_154,11,Trawler,3589,Sulawesi Selatan,LIC418212
+155,Nelayan_155,31,Trawler,267,Bali,LIC475598
+156,Nelayan_156,26,Trawler,547,Sumatera Utara,LIC675496
+157,Nelayan_157,13,Traditional Boat,2254,Bali,LIC124479
+158,Nelayan_158,8,Trawler,4601,Sulawesi Selatan,LIC156536
+159,Nelayan_159,32,Trawler,2540,Jawa Barat,LIC627995
+160,Nelayan_160,29,Fishing Vessel,737,Sulawesi Selatan,LIC759679
+161,Nelayan_161,1,Fishing Vessel,166,Jawa Barat,LIC818554
+162,Nelayan_162,21,Traditional Boat,3765,Jawa Timur,LIC254311
+163,Nelayan_163,7,Fishing Vessel,3169,Papua,LIC992979
+164,Nelayan_164,12,Trawler,1125,Jawa Tengah,LIC891844
+165,Nelayan_165,12,Trawler,2305,Papua,LIC102183
+166,Nelayan_166,11,Trawler,4388,Sulawesi Selatan,LIC910900
+167,Nelayan_167,27,Trawler,1956,Papua,LIC690201
+168,Nelayan_168,10,Motor Boat,4465,Lampung,LIC359940
+169,Nelayan_169,28,Motor Boat,4275,Maluku,LIC189469
+170,Nelayan_170,38,Trawler,2231,Jawa Tengah,LIC106083
+171,Nelayan_171,18,Fishing Vessel,4717,Lampung,LIC236601
+172,Nelayan_172,8,Traditional Boat,2734,Maluku,LIC616681
+173,Nelayan_173,14,Motor Boat,4530,Papua,LIC764247
+174,Nelayan_174,14,Fishing Vessel,398,Maluku,LIC916411
+175,Nelayan_175,34,Motor Boat,4946,Papua,LIC655275
+176,Nelayan_176,8,Traditional Boat,178,Jawa Barat,LIC984630
+177,Nelayan_177,3,Motor Boat,179,Papua,LIC996299
+178,Nelayan_178,37,Motor Boat,768,Jawa Tengah,LIC104323
+179,Nelayan_179,4,Traditional Boat,2962,Bali,LIC358863
+180,Nelayan_180,19,Motor Boat,1190,Sumatera Utara,LIC870736
+181,Nelayan_181,18,Motor Boat,1330,Jawa Tengah,LIC684505
+182,Nelayan_182,39,Fishing Vessel,3661,Papua,LIC757823
+183,Nelayan_183,12,Traditional Boat,4035,Kalimantan Selatan,LIC459171
+184,Nelayan_184,22,Trawler,2068,Sulawesi Selatan,LIC244570
+185,Nelayan_185,9,Fishing Vessel,3193,Papua,LIC173991
+186,Nelayan_186,30,Trawler,873,Kalimantan Selatan,LIC480980
+187,Nelayan_187,31,Motor Boat,4843,Jawa Tengah,LIC116352
+188,Nelayan_188,6,Fishing Vessel,2562,Maluku,LIC914245
+189,Nelayan_189,24,Trawler,1206,Jawa Timur,LIC178132
+190,Nelayan_190,36,Traditional Boat,2337,Bali,LIC983764
+191,Nelayan_191,1,Fishing Vessel,3667,Bali,LIC193020
+192,Nelayan_192,30,Motor Boat,3347,Lampung,LIC574712
+193,Nelayan_193,17,Trawler,3903,Sumatera Utara,LIC732275
+194,Nelayan_194,33,Trawler,1999,Lampung,LIC285825
+195,Nelayan_195,6,Fishing Vessel,3789,Kalimantan Selatan,LIC293145
+196,Nelayan_196,4,Trawler,737,Kalimantan Selatan,LIC795786
+197,Nelayan_197,15,Traditional Boat,4252,Lampung,LIC937797
+198,Nelayan_198,21,Motor Boat,261,Kalimantan Selatan,LIC593311
+199,Nelayan_199,18,Traditional Boat,3504,Kalimantan Selatan,LIC461202
+200,Nelayan_200,35,Traditional Boat,3685,Maluku,LIC706676
+201,Nelayan_201,32,Motor Boat,1533,Sumatera Utara,LIC817107
+202,Nelayan_202,9,Motor Boat,818,Sumatera Utara,LIC360826
+203,Nelayan_203,10,Traditional Boat,739,Maluku,LIC388985
+204,Nelayan_204,25,Motor Boat,4200,Lampung,LIC964993
+205,Nelayan_205,40,Fishing Vessel,4576,Kalimantan Selatan,LIC904787
+206,Nelayan_206,38,Fishing Vessel,2232,Sulawesi Selatan,LIC339504
+207,Nelayan_207,6,Motor Boat,352,Bali,LIC469029
+208,Nelayan_208,7,Fishing Vessel,1374,Kalimantan Selatan,LIC200616
+209,Nelayan_209,27,Fishing Vessel,4546,Sulawesi Selatan,LIC291418
+210,Nelayan_210,1,Trawler,1578,Sulawesi Selatan,LIC273502
+211,Nelayan_211,38,Traditional Boat,3401,Maluku,LIC804984
+212,Nelayan_212,16,Trawler,4774,Sumatera Utara,LIC511873
+213,Nelayan_213,28,Motor Boat,361,Kalimantan Selatan,LIC220213
+214,Nelayan_214,10,Trawler,2193,Kalimantan Selatan,LIC819811
+215,Nelayan_215,17,Traditional Boat,2607,Maluku,LIC634027
+216,Nelayan_216,1,Trawler,2005,Papua,LIC316540
+217,Nelayan_217,29,Fishing Vessel,4237,Sumatera Utara,LIC278896
+218,Nelayan_218,1,Fishing Vessel,1673,Kalimantan Selatan,LIC766032
+219,Nelayan_219,40,Traditional Boat,3389,Jawa Barat,LIC187592
+220,Nelayan_220,26,Fishing Vessel,4432,Sumatera Utara,LIC892385
+221,Nelayan_221,39,Trawler,130,Jawa Tengah,LIC371414
+222,Nelayan_222,10,Motor Boat,111,Bali,LIC967557
+223,Nelayan_223,17,Traditional Boat,1597,Jawa Barat,LIC306845
+224,Nelayan_224,21,Motor Boat,1823,Kalimantan Selatan,LIC798986
+225,Nelayan_225,18,Trawler,622,Sumatera Utara,LIC174637
+226,Nelayan_226,4,Fishing Vessel,3643,Jawa Timur,LIC922357
+227,Nelayan_227,10,Fishing Vessel,1615,Jawa Barat,LIC130310
+228,Nelayan_228,18,Traditional Boat,1497,Papua,LIC558521
+229,Nelayan_229,8,Motor Boat,432,Papua,LIC161004
+230,Nelayan_230,13,Fishing Vessel,4865,Kalimantan Selatan,LIC136344
+231,Nelayan_231,24,Fishing Vessel,2675,Lampung,LIC510878
+232,Nelayan_232,26,Fishing Vessel,490,Kalimantan Selatan,LIC360379
+233,Nelayan_233,26,Trawler,4640,Jawa Barat,LIC879422
+234,Nelayan_234,35,Traditional Boat,4666,Maluku,LIC883736
+235,Nelayan_235,15,Fishing Vessel,4189,Bali,LIC283550
+236,Nelayan_236,17,Trawler,2013,Sumatera Utara,LIC247715
+237,Nelayan_237,16,Trawler,3601,Maluku,LIC449975
+238,Nelayan_238,10,Trawler,525,Jawa Timur,LIC280033
+239,Nelayan_239,16,Motor Boat,4298,Sumatera Utara,LIC453323
+240,Nelayan_240,38,Traditional Boat,119,Kalimantan Selatan,LIC693780
+241,Nelayan_241,10,Traditional Boat,4601,Jawa Tengah,LIC635743
+242,Nelayan_242,21,Fishing Vessel,376,Lampung,LIC677785
+243,Nelayan_243,26,Fishing Vessel,4229,Lampung,LIC981514
+244,Nelayan_244,13,Trawler,379,Papua,LIC188541
+245,Nelayan_245,34,Traditional Boat,1031,Papua,LIC208726
+246,Nelayan_246,33,Trawler,1243,Kalimantan Selatan,LIC168040
+247,Nelayan_247,11,Trawler,1990,Bali,LIC618456
+248,Nelayan_248,25,Fishing Vessel,4213,Jawa Barat,LIC995674
+249,Nelayan_249,15,Traditional Boat,1290,Jawa Tengah,LIC995790
+250,Nelayan_250,4,Traditional Boat,3301,Jawa Timur,LIC445697
+251,Nelayan_251,38,Motor Boat,1202,Kalimantan Selatan,LIC314466
+252,Nelayan_252,17,Motor Boat,1188,Sulawesi Selatan,LIC759124
+253,Nelayan_253,10,Motor Boat,1514,Kalimantan Selatan,LIC788628
+254,Nelayan_254,33,Trawler,1943,Maluku,LIC667428
+255,Nelayan_255,11,Motor Boat,4580,Sulawesi Selatan,LIC978997
+256,Nelayan_256,7,Traditional Boat,4446,Papua,LIC703315
+257,Nelayan_257,10,Trawler,2367,Sulawesi Selatan,LIC318304
+258,Nelayan_258,16,Traditional Boat,4902,Sumatera Utara,LIC916427
+259,Nelayan_259,17,Trawler,1451,Sumatera Utara,LIC853436
+260,Nelayan_260,21,Traditional Boat,805,Kalimantan Selatan,LIC161201
+261,Nelayan_261,12,Traditional Boat,4039,Bali,LIC603471
+262,Nelayan_262,30,Motor Boat,1259,Sulawesi Selatan,LIC122409
+263,Nelayan_263,18,Traditional Boat,3925,Sumatera Utara,LIC389495
+264,Nelayan_264,40,Motor Boat,3059,Kalimantan Selatan,LIC771192
+265,Nelayan_265,39,Traditional Boat,4351,Jawa Barat,LIC614548
+266,Nelayan_266,33,Fishing Vessel,3040,Bali,LIC743445
+267,Nelayan_267,10,Motor Boat,1536,Kalimantan Selatan,LIC984297
+268,Nelayan_268,37,Trawler,4135,Sumatera Utara,LIC998253
+269,Nelayan_269,12,Trawler,4366,Jawa Barat,LIC482186
+270,Nelayan_270,23,Motor Boat,2822,Sulawesi Selatan,LIC220348
+271,Nelayan_271,5,Motor Boat,1004,Bali,LIC129483
+272,Nelayan_272,10,Trawler,120,Jawa Tengah,LIC783265
+273,Nelayan_273,28,Motor Boat,107,Papua,LIC601942
+274,Nelayan_274,28,Motor Boat,1620,Kalimantan Selatan,LIC168891
+275,Nelayan_275,3,Traditional Boat,3304,Sumatera Utara,LIC733513
+276,Nelayan_276,6,Trawler,1756,Papua,LIC642341
+277,Nelayan_277,25,Fishing Vessel,3362,Jawa Timur,LIC372809
+278,Nelayan_278,12,Trawler,3754,Lampung,LIC885632
+279,Nelayan_279,33,Fishing Vessel,4045,Bali,LIC918964
+280,Nelayan_280,32,Trawler,2984,Sulawesi Selatan,LIC430720
+281,Nelayan_281,20,Motor Boat,1146,Jawa Barat,LIC305298
+282,Nelayan_282,29,Traditional Boat,844,Maluku,LIC124182
+283,Nelayan_283,13,Fishing Vessel,1750,Lampung,LIC670443
+284,Nelayan_284,20,Motor Boat,794,Jawa Tengah,LIC475548
+285,Nelayan_285,12,Trawler,2931,Papua,LIC127000
+286,Nelayan_286,32,Trawler,1798,Sumatera Utara,LIC796998
+287,Nelayan_287,11,Fishing Vessel,4815,Jawa Timur,LIC505706
+288,Nelayan_288,20,Traditional Boat,1961,Maluku,LIC336850
+289,Nelayan_289,34,Traditional Boat,3022,Jawa Tengah,LIC483801
+290,Nelayan_290,20,Motor Boat,589,Kalimantan Selatan,LIC510741
+291,Nelayan_291,11,Motor Boat,4396,Jawa Tengah,LIC527803
+292,Nelayan_292,4,Motor Boat,1830,Jawa Barat,LIC862199
+293,Nelayan_293,34,Traditional Boat,4528,Sumatera Utara,LIC480351
+294,Nelayan_294,38,Traditional Boat,2720,Kalimantan Selatan,LIC275739
+295,Nelayan_295,28,Traditional Boat,2832,Maluku,LIC501269
+296,Nelayan_296,10,Trawler,796,Sumatera Utara,LIC909915
+297,Nelayan_297,37,Traditional Boat,3607,Sulawesi Selatan,LIC569539
+298,Nelayan_298,34,Motor Boat,3940,Jawa Tengah,LIC354224
+299,Nelayan_299,19,Trawler,2637,Sumatera Utara,LIC422356
+300,Nelayan_300,4,Motor Boat,1750,Sulawesi Selatan,LIC598733
+301,Nelayan_301,30,Motor Boat,101,Lampung,LIC639837
+302,Nelayan_302,6,Trawler,2520,Lampung,LIC214467
+303,Nelayan_303,26,Trawler,2554,Lampung,LIC840265
+304,Nelayan_304,6,Motor Boat,1850,Lampung,LIC533889
+305,Nelayan_305,20,Fishing Vessel,3785,Sumatera Utara,LIC933027
+306,Nelayan_306,32,Fishing Vessel,2791,Bali,LIC444322
+307,Nelayan_307,1,Motor Boat,1884,Jawa Tengah,LIC618629
+308,Nelayan_308,25,Trawler,1941,Bali,LIC390090
+309,Nelayan_309,9,Motor Boat,117,Bali,LIC321515
+310,Nelayan_310,40,Fishing Vessel,3840,Kalimantan Selatan,LIC863743
+311,Nelayan_311,25,Trawler,2644,Kalimantan Selatan,LIC854169
+312,Nelayan_312,23,Fishing Vessel,3968,Bali,LIC724039
+313,Nelayan_313,5,Motor Boat,1968,Jawa Tengah,LIC697368
+314,Nelayan_314,32,Trawler,4186,Jawa Tengah,LIC889188
+315,Nelayan_315,10,Traditional Boat,1773,Lampung,LIC802349
+316,Nelayan_316,35,Fishing Vessel,4348,Lampung,LIC418280
+317,Nelayan_317,24,Traditional Boat,2776,Papua,LIC450444
+318,Nelayan_318,18,Fishing Vessel,4211,Maluku,LIC697624
+319,Nelayan_319,20,Trawler,3284,Bali,LIC916308
+320,Nelayan_320,28,Traditional Boat,2920,Maluku,LIC647680
+321,Nelayan_321,11,Fishing Vessel,1441,Maluku,LIC966001
+322,Nelayan_322,35,Fishing Vessel,2249,Jawa Barat,LIC432598
+323,Nelayan_323,5,Motor Boat,946,Maluku,LIC816628
+324,Nelayan_324,11,Motor Boat,2834,Jawa Barat,LIC775629
+325,Nelayan_325,29,Motor Boat,4097,Jawa Barat,LIC584810
+326,Nelayan_326,23,Fishing Vessel,2219,Jawa Barat,LIC590096
+327,Nelayan_327,9,Fishing Vessel,3001,Jawa Barat,LIC919926
+328,Nelayan_328,23,Traditional Boat,4687,Sulawesi Selatan,LIC273520
+329,Nelayan_329,26,Motor Boat,3968,Lampung,LIC729322
+330,Nelayan_330,11,Fishing Vessel,4492,Kalimantan Selatan,LIC753529
+331,Nelayan_331,16,Motor Boat,3335,Maluku,LIC660140
+332,Nelayan_332,28,Fishing Vessel,282,Jawa Barat,LIC452688
+333,Nelayan_333,15,Traditional Boat,1279,Kalimantan Selatan,LIC411059
+334,Nelayan_334,2,Motor Boat,771,Jawa Tengah,LIC779282
+335,Nelayan_335,11,Motor Boat,3855,Papua,LIC709995
+336,Nelayan_336,20,Fishing Vessel,1110,Sulawesi Selatan,LIC758190
+337,Nelayan_337,19,Motor Boat,4236,Sulawesi Selatan,LIC493492
+338,Nelayan_338,38,Fishing Vessel,2858,Lampung,LIC914901
+339,Nelayan_339,7,Trawler,3567,Sumatera Utara,LIC173721
+340,Nelayan_340,33,Motor Boat,2393,Maluku,LIC600174
+341,Nelayan_341,28,Trawler,3736,Sumatera Utara,LIC866015
+342,Nelayan_342,39,Traditional Boat,4881,Sumatera Utara,LIC908877
+343,Nelayan_343,3,Trawler,153,Sulawesi Selatan,LIC507109
+344,Nelayan_344,13,Trawler,1850,Maluku,LIC389323
+345,Nelayan_345,20,Traditional Boat,272,Lampung,LIC670274
+346,Nelayan_346,38,Traditional Boat,1171,Kalimantan Selatan,LIC659957
+347,Nelayan_347,33,Traditional Boat,427,Sumatera Utara,LIC457026
+348,Nelayan_348,15,Trawler,2955,Sumatera Utara,LIC275479
+349,Nelayan_349,7,Fishing Vessel,4335,Kalimantan Selatan,LIC278741
+350,Nelayan_350,14,Trawler,4619,Kalimantan Selatan,LIC845741
+351,Nelayan_351,39,Traditional Boat,2607,Papua,LIC697897
+352,Nelayan_352,25,Traditional Boat,2336,Jawa Timur,LIC862818
+353,Nelayan_353,17,Trawler,4801,Sulawesi Selatan,LIC116009
+354,Nelayan_354,37,Motor Boat,4923,Jawa Tengah,LIC729855
+355,Nelayan_355,7,Motor Boat,650,Papua,LIC209054
+356,Nelayan_356,22,Fishing Vessel,3905,Jawa Barat,LIC541887
+357,Nelayan_357,11,Trawler,1028,Sulawesi Selatan,LIC591964
+358,Nelayan_358,13,Trawler,1855,Lampung,LIC588852
+359,Nelayan_359,3,Fishing Vessel,4548,Kalimantan Selatan,LIC897275
+360,Nelayan_360,2,Trawler,4522,Bali,LIC223642
+361,Nelayan_361,32,Motor Boat,1887,Jawa Barat,LIC104137
+362,Nelayan_362,3,Traditional Boat,3561,Lampung,LIC489445
+363,Nelayan_363,36,Traditional Boat,2562,Jawa Barat,LIC563522
+364,Nelayan_364,16,Motor Boat,1381,Bali,LIC152391
+365,Nelayan_365,9,Trawler,899,Kalimantan Selatan,LIC375020
+366,Nelayan_366,4,Motor Boat,4005,Jawa Timur,LIC990150
+367,Nelayan_367,18,Motor Boat,4538,Bali,LIC740141
+368,Nelayan_368,9,Fishing Vessel,2395,Kalimantan Selatan,LIC684170
+369,Nelayan_369,39,Motor Boat,3921,Sulawesi Selatan,LIC612123
+370,Nelayan_370,26,Traditional Boat,4222,Lampung,LIC393171
+371,Nelayan_371,9,Traditional Boat,108,Sumatera Utara,LIC203020
+372,Nelayan_372,22,Motor Boat,2317,Jawa Barat,LIC121429
+373,Nelayan_373,17,Trawler,3409,Papua,LIC323012
+374,Nelayan_374,1,Motor Boat,3983,Jawa Barat,LIC939692
+375,Nelayan_375,17,Traditional Boat,4632,Jawa Tengah,LIC474719
+376,Nelayan_376,5,Fishing Vessel,1564,Lampung,LIC910385
+377,Nelayan_377,36,Trawler,1975,Maluku,LIC432791
+378,Nelayan_378,22,Motor Boat,4261,Jawa Barat,LIC431888
+379,Nelayan_379,38,Fishing Vessel,1988,Lampung,LIC911907
+380,Nelayan_380,23,Traditional Boat,2932,Lampung,LIC529119
+381,Nelayan_381,26,Motor Boat,3264,Sulawesi Selatan,LIC250393
+382,Nelayan_382,25,Trawler,435,Sulawesi Selatan,LIC979029
+383,Nelayan_383,39,Trawler,2070,Sulawesi Selatan,LIC911351
+384,Nelayan_384,7,Traditional Boat,741,Papua,LIC292591
+385,Nelayan_385,18,Trawler,1592,Lampung,LIC342529
+386,Nelayan_386,39,Traditional Boat,1178,Bali,LIC283555
+387,Nelayan_387,36,Motor Boat,2827,Maluku,LIC668374
+388,Nelayan_388,28,Fishing Vessel,3150,Jawa Tengah,LIC324740
+389,Nelayan_389,37,Traditional Boat,3886,Papua,LIC891432
+390,Nelayan_390,23,Trawler,235,Sumatera Utara,LIC529947
+391,Nelayan_391,16,Traditional Boat,552,Kalimantan Selatan,LIC550790
+392,Nelayan_392,39,Trawler,2644,Papua,LIC238488
+393,Nelayan_393,20,Trawler,3257,Papua,LIC680902
+394,Nelayan_394,23,Fishing Vessel,183,Jawa Barat,LIC744932
+395,Nelayan_395,38,Traditional Boat,3030,Jawa Barat,LIC847834
+396,Nelayan_396,6,Motor Boat,167,Sumatera Utara,LIC871799
+397,Nelayan_397,14,Trawler,2675,Jawa Timur,LIC200926
+398,Nelayan_398,39,Trawler,587,Maluku,LIC340784
+399,Nelayan_399,28,Motor Boat,1333,Kalimantan Selatan,LIC480188
+400,Nelayan_400,5,Motor Boat,4044,Sumatera Utara,LIC213245
+401,Nelayan_401,21,Trawler,1586,Jawa Tengah,LIC399328
+402,Nelayan_402,10,Trawler,2511,Sulawesi Selatan,LIC751561
+403,Nelayan_403,31,Trawler,4987,Maluku,LIC800890
+404,Nelayan_404,26,Trawler,2842,Jawa Timur,LIC668440
+405,Nelayan_405,20,Motor Boat,1510,Lampung,LIC474926
+406,Nelayan_406,3,Motor Boat,3885,Maluku,LIC265063
+407,Nelayan_407,1,Motor Boat,4077,Sulawesi Selatan,LIC615365
+408,Nelayan_408,26,Trawler,4590,Lampung,LIC112372
+409,Nelayan_409,5,Motor Boat,2682,Sumatera Utara,LIC101030
+410,Nelayan_410,32,Fishing Vessel,1034,Lampung,LIC979691
+411,Nelayan_411,12,Trawler,934,Jawa Timur,LIC529216
+412,Nelayan_412,25,Fishing Vessel,4268,Sulawesi Selatan,LIC319164
+413,Nelayan_413,4,Traditional Boat,461,Sulawesi Selatan,LIC521472
+414,Nelayan_414,5,Motor Boat,1951,Jawa Barat,LIC876577
+415,Nelayan_415,20,Trawler,1455,Jawa Tengah,LIC539799
+416,Nelayan_416,38,Traditional Boat,4590,Lampung,LIC679711
+417,Nelayan_417,11,Trawler,633,Bali,LIC119934
+418,Nelayan_418,18,Traditional Boat,387,Kalimantan Selatan,LIC352270
+419,Nelayan_419,9,Traditional Boat,1303,Maluku,LIC235717
+420,Nelayan_420,22,Fishing Vessel,744,Sumatera Utara,LIC339038
+421,Nelayan_421,20,Traditional Boat,305,Maluku,LIC499439
+422,Nelayan_422,40,Motor Boat,2838,Lampung,LIC892064
+423,Nelayan_423,16,Traditional Boat,2276,Sumatera Utara,LIC325154
+424,Nelayan_424,40,Motor Boat,3571,Sulawesi Selatan,LIC625724
+425,Nelayan_425,29,Motor Boat,4192,Papua,LIC484689
+426,Nelayan_426,5,Trawler,2856,Sumatera Utara,LIC338953
+427,Nelayan_427,31,Motor Boat,1753,Kalimantan Selatan,LIC366452
+428,Nelayan_428,28,Traditional Boat,191,Jawa Barat,LIC781664
+429,Nelayan_429,40,Motor Boat,4024,Maluku,LIC763613
+430,Nelayan_430,11,Trawler,3102,Sulawesi Selatan,LIC361173
+431,Nelayan_431,18,Traditional Boat,4670,Sulawesi Selatan,LIC970668
+432,Nelayan_432,29,Motor Boat,3404,Papua,LIC699736
+433,Nelayan_433,36,Traditional Boat,2285,Papua,LIC593834
+434,Nelayan_434,27,Trawler,2836,Kalimantan Selatan,LIC132069
+435,Nelayan_435,34,Trawler,2484,Sulawesi Selatan,LIC735880
+436,Nelayan_436,32,Trawler,3937,Sulawesi Selatan,LIC464337
+437,Nelayan_437,31,Fishing Vessel,364,Maluku,LIC168854
+438,Nelayan_438,30,Traditional Boat,334,Kalimantan Selatan,LIC957228
+439,Nelayan_439,40,Fishing Vessel,3593,Sulawesi Selatan,LIC572140
+440,Nelayan_440,33,Trawler,2066,Jawa Timur,LIC857537
+441,Nelayan_441,24,Motor Boat,2901,Jawa Barat,LIC375934
+442,Nelayan_442,32,Traditional Boat,419,Papua,LIC981170
+443,Nelayan_443,30,Traditional Boat,1353,Maluku,LIC535942
+444,Nelayan_444,35,Trawler,4806,Kalimantan Selatan,LIC378683
+445,Nelayan_445,33,Traditional Boat,2158,Bali,LIC865558
+446,Nelayan_446,10,Trawler,2513,Jawa Tengah,LIC107908
+447,Nelayan_447,3,Fishing Vessel,3367,Bali,LIC889985
+448,Nelayan_448,7,Motor Boat,4735,Lampung,LIC326102
+449,Nelayan_449,25,Traditional Boat,3169,Kalimantan Selatan,LIC397774
+450,Nelayan_450,6,Traditional Boat,4984,Lampung,LIC226777
+451,Nelayan_451,5,Traditional Boat,3036,Papua,LIC371826
+452,Nelayan_452,17,Motor Boat,364,Sumatera Utara,LIC204381
+453,Nelayan_453,32,Motor Boat,4685,Jawa Barat,LIC288419
+454,Nelayan_454,34,Traditional Boat,4808,Jawa Timur,LIC607177
+455,Nelayan_455,17,Fishing Vessel,3290,Sumatera Utara,LIC963356
+456,Nelayan_456,32,Trawler,4946,Lampung,LIC177753
+457,Nelayan_457,40,Motor Boat,144,Jawa Timur,LIC394416
+458,Nelayan_458,3,Traditional Boat,2036,Kalimantan Selatan,LIC466306
+459,Nelayan_459,31,Traditional Boat,3823,Kalimantan Selatan,LIC929174
+460,Nelayan_460,22,Fishing Vessel,2635,Lampung,LIC971386
+461,Nelayan_461,30,Motor Boat,1740,Jawa Barat,LIC698537
+462,Nelayan_462,39,Fishing Vessel,596,Bali,LIC629654
+463,Nelayan_463,20,Traditional Boat,1216,Sumatera Utara,LIC893142
+464,Nelayan_464,10,Trawler,2112,Jawa Timur,LIC439129
+465,Nelayan_465,35,Fishing Vessel,2709,Maluku,LIC406559
+466,Nelayan_466,26,Fishing Vessel,1390,Sulawesi Selatan,LIC792749
+467,Nelayan_467,37,Fishing Vessel,3694,Sulawesi Selatan,LIC579312
+468,Nelayan_468,31,Motor Boat,1188,Sumatera Utara,LIC726010
+469,Nelayan_469,13,Trawler,4126,Maluku,LIC425903
+470,Nelayan_470,10,Trawler,3670,Sulawesi Selatan,LIC755201
+471,Nelayan_471,37,Trawler,3113,Sulawesi Selatan,LIC466878
+472,Nelayan_472,36,Traditional Boat,4783,Maluku,LIC143267
+473,Nelayan_473,1,Traditional Boat,4790,Sulawesi Selatan,LIC961355
+474,Nelayan_474,6,Trawler,3696,Sumatera Utara,LIC773694
+475,Nelayan_475,23,Trawler,609,Bali,LIC198713
+476,Nelayan_476,1,Motor Boat,1603,Sumatera Utara,LIC245063
+477,Nelayan_477,5,Trawler,4280,Jawa Tengah,LIC159349
+478,Nelayan_478,36,Motor Boat,2597,Jawa Barat,LIC809579
+479,Nelayan_479,32,Trawler,4247,Bali,LIC760534
+480,Nelayan_480,32,Fishing Vessel,459,Jawa Tengah,LIC531287
+481,Nelayan_481,30,Trawler,4907,Sumatera Utara,LIC951749
+482,Nelayan_482,37,Fishing Vessel,366,Bali,LIC371878
+483,Nelayan_483,16,Trawler,3766,Sulawesi Selatan,LIC760553
+484,Nelayan_484,23,Motor Boat,2122,Sumatera Utara,LIC966023
+485,Nelayan_485,17,Fishing Vessel,4353,Papua,LIC758704
+486,Nelayan_486,39,Fishing Vessel,139,Bali,LIC813649
+487,Nelayan_487,9,Fishing Vessel,907,Maluku,LIC713701
+488,Nelayan_488,38,Trawler,173,Jawa Timur,LIC695360
+489,Nelayan_489,8,Traditional Boat,3438,Papua,LIC616353
+490,Nelayan_490,7,Motor Boat,2454,Maluku,LIC145273
+491,Nelayan_491,35,Motor Boat,1570,Sumatera Utara,LIC833658
+492,Nelayan_492,16,Motor Boat,1437,Sulawesi Selatan,LIC425341
+493,Nelayan_493,32,Traditional Boat,149,Jawa Timur,LIC727808
+494,Nelayan_494,26,Traditional Boat,3686,Maluku,LIC294062
+495,Nelayan_495,6,Fishing Vessel,1286,Kalimantan Selatan,LIC144442
+496,Nelayan_496,30,Fishing Vessel,1319,Bali,LIC448134
+497,Nelayan_497,4,Motor Boat,4504,Jawa Tengah,LIC158058
+498,Nelayan_498,32,Motor Boat,2197,Jawa Timur,LIC138651
+499,Nelayan_499,14,Traditional Boat,3659,Papua,LIC385541
+500,Nelayan_500,39,Traditional Boat,133,Jawa Timur,LIC219074
