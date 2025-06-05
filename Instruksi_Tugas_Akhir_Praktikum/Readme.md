@@ -12,7 +12,7 @@ Perhatikan ketentuan pengerjaan tugas akhir berikut:
 
   > Setiap kelompok memilih salah satu dari 4 datasets yang tersedia dan dilarang menggunakan dataset yang sama antar kelompok. (buat list pada grup laboratorium di Whatsapp terkait pemilihan dataset)
 
-3. Dalam masing-masing datasets tersebut terdapat 5 dataset yang terpisah didalamnya. Untuk setiap dataset terdapat dataset utama yang harus digunakan yaitu `chicken_dataset`, `fish_dataset`, `goat_dataset`, dan `lobster_dataset`.
+3. Dalam masing-masing datasets tersebut terdapat 5 dataset yang terpisah didalamnya. Untuk setiap dataset terdapat dataset utama yang harus digunakan yaitu `chicken_dataset.csv`, `fish_dataset.csv`, `goat_dataset.csv`, dan `lobster_dataset.csv`.
 
 
 4. Lakukan preprocessing pada data dengan menggunakan pandas (notebook format: Nama Kelompok_Nama Dataset_Pandas.ipynb)
